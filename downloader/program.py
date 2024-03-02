@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from exceptions import FailedToFetchURLException
 
-QURANIC_AUDIO_LINK = "https://www.quranicaudio.com/"
+QURANIC_AUDIO_LINK = "https://www.quranicaudio.com"
 
 
 def get_links(url):
@@ -19,8 +19,11 @@ def get_links(url):
 
 def main():
     recieter_links = get_links(QURANIC_AUDIO_LINK)
-    for link in recieter_links:
-        print(link)
+    response = requests.get(f"{QURANIC_AUDIO_LINK}/{recieter_links[0]}")
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, "html.parser")
+        name = soup.find_all("h1")
+        print(name)
 
 
 if __name__ == "__main__":
