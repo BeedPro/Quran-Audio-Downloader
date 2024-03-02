@@ -1,9 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+from exceptions import FailedToFetchURLException
 
-
-class FailedToFetchURLException(Exception):
-    pass
+QURANIC_AUDIO_LINK = "https://www.quranicaudio.com/"
 
 
 def get_links(url):
@@ -18,8 +17,11 @@ def get_links(url):
         raise FailedToFetchURLException(f"Failed to fetch URL: {url}")
 
 
-if __name__ == "__main__":
-    website_url = "https://www.quranicaudio.com/"
-    links = get_links(website_url)
-    for link in links:
+def main():
+    recieter_links = get_links(QURANIC_AUDIO_LINK)
+    for link in recieter_links:
         print(link)
+
+
+if __name__ == "__main__":
+    main()
