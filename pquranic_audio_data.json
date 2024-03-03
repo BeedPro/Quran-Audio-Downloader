@@ -1,17 +1,23 @@
 {
   "routing": {
     "locationBeforeTransitions": {
-      "pathname": "\u002F\u002Fabout",
+      "pathname": "//about",
       "search": "",
       "hash": "",
       "state": null,
       "action": "POP",
-      "key": "54tkvx",
+      "key": "q0w2ro",
       "query": {},
-      "$searchBase": { "search": "", "searchBase": "" }
+      "$searchBase": {
+        "search": "",
+        "searchBase": ""
+      }
     }
   },
-  "reduxAsyncConnect": { "loaded": true, "loadState": {} },
+  "reduxAsyncConnect": {
+    "loaded": true,
+    "loadState": {}
+  },
   "audioplayer": {
     "file": null,
     "userAgent": {
@@ -58,7 +64,7 @@
       "os": "unknown",
       "platform": "unknown",
       "geoIp": {},
-      "source": "python-requests\u002F2.31.0"
+      "source": "python-requests/2.31.0"
     },
     "currentFile": null,
     "isSupported": true,
@@ -71,7 +77,11 @@
     "surahPage": false,
     "qaris": null
   },
-  "files": { "errored": false, "loaded": false, "entities": {} },
+  "files": {
+    "errored": false,
+    "loaded": false,
+    "entities": {}
+  },
   "qaris": {
     "errored": false,
     "loaded": true,
@@ -82,7 +92,7 @@
         "id": 1,
         "name": "Abdullah Awad al-Juhani",
         "arabicName": "عبدالله عواد الجهني",
-        "relativePath": "abdullaah_3awwaad_al-juhaynee\u002F",
+        "relativePath": "abdullaah_3awwaad_al-juhaynee/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -96,7 +106,7 @@
         "id": 2,
         "name": "Abdullah Basfar",
         "arabicName": "عبدالله بصفر",
-        "relativePath": "abdullaah_basfar\u002F",
+        "relativePath": "abdullaah_basfar/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -110,7 +120,7 @@
         "id": 3,
         "name": "Abu Bakr al-Shatri",
         "arabicName": "أبو بكر الشاطرى",
-        "relativePath": "abu_bakr_ash-shaatree\u002F",
+        "relativePath": "abu_bakr_ash-shaatree/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -124,7 +134,7 @@
         "id": 4,
         "name": "Sa`ud ash-Shuraym",
         "arabicName": "سعود الشريم",
-        "relativePath": "sa3ood_al-shuraym\u002F",
+        "relativePath": "sa3ood_al-shuraym/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -138,7 +148,7 @@
         "id": 5,
         "name": "Mishari Rashid al-`Afasy",
         "arabicName": "مشاري راشد العفاسي",
-        "relativePath": "mishaari_raashid_al_3afaasee\u002F",
+        "relativePath": "mishaari_raashid_al_3afaasee/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -152,7 +162,7 @@
         "id": 6,
         "name": "Muhammad Siddiq al-Minshawi",
         "arabicName": "محمد صديق المنشاوي",
-        "relativePath": "muhammad_siddeeq_al-minshaawee\u002F",
+        "relativePath": "muhammad_siddeeq_al-minshaawee/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -166,7 +176,7 @@
         "id": 7,
         "name": "Abdur-Rahman as-Sudais",
         "arabicName": "عبدالرحمن السديس",
-        "relativePath": "abdurrahmaan_as-sudays\u002F",
+        "relativePath": "abdurrahmaan_as-sudays/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -180,7 +190,7 @@
         "id": 8,
         "name": "Ali Abdur-Rahman al-Huthaify",
         "arabicName": "علي عبدالرحمن الحذيفي",
-        "relativePath": "huthayfi\u002F",
+        "relativePath": "huthayfi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -194,7 +204,7 @@
         "id": 9,
         "name": "Khalid al-Qahtani",
         "arabicName": "خالد القحطاني",
-        "relativePath": "khaalid_al-qahtaanee\u002F",
+        "relativePath": "khaalid_al-qahtaanee/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -208,7 +218,7 @@
         "id": 10,
         "name": "Nabil ar-Rifai",
         "arabicName": "نبيل الرفاعي",
-        "relativePath": "nabil_rifa3i\u002F",
+        "relativePath": "nabil_rifa3i/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -222,7 +232,7 @@
         "id": 11,
         "name": "AbdulMuhsin al-Qasim",
         "arabicName": "عبد المحسن القاسم",
-        "relativePath": "abdul_muhsin_alqasim\u002F",
+        "relativePath": "abdul_muhsin_alqasim/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -236,7 +246,7 @@
         "id": 12,
         "name": "Muhammad Jibreel",
         "arabicName": "محمد جبريل",
-        "relativePath": "muhammad_jibreel\u002Fcomplete\u002F",
+        "relativePath": "muhammad_jibreel/complete/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -250,7 +260,7 @@
         "id": 13,
         "name": "Saad al-Ghamdi",
         "arabicName": "سعد الغامدي",
-        "relativePath": "sa3d_al-ghaamidi\u002Fcomplete\u002F",
+        "relativePath": "sa3d_al-ghaamidi/complete/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -264,7 +274,7 @@
         "id": 14,
         "name": "Fares Abbad",
         "arabicName": "فارس عباد",
-        "relativePath": "fares\u002F",
+        "relativePath": "fares/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -278,7 +288,7 @@
         "id": 15,
         "name": "AbdulBari ath-Thubaity",
         "arabicName": "عبدالباري الثبيتي",
-        "relativePath": "thubaity\u002F",
+        "relativePath": "thubaity/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -292,7 +302,7 @@
         "id": 16,
         "name": "Mahmoud Khaleel Al-Husary",
         "arabicName": "محمود خليل الحصري",
-        "relativePath": "mahmood_khaleel_al-husaree\u002F",
+        "relativePath": "mahmood_khaleel_al-husaree/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -306,7 +316,7 @@
         "id": 17,
         "name": "Sahl Yasin",
         "arabicName": "سهل ياسين",
-        "relativePath": "sahl_yaaseen\u002F",
+        "relativePath": "sahl_yaaseen/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -320,7 +330,7 @@
         "id": 18,
         "name": "Salah Bukhatir",
         "arabicName": "صلح بوخاطر",
-        "relativePath": "salaah_bukhaatir\u002F",
+        "relativePath": "salaah_bukhaatir/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -334,7 +344,7 @@
         "id": 19,
         "name": "Ahmed ibn Ali al-Ajmy",
         "arabicName": "أحمد بن علي العجمي",
-        "relativePath": "ahmed_ibn_3ali_al-3ajamy\u002F",
+        "relativePath": "ahmed_ibn_3ali_al-3ajamy/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -348,7 +358,7 @@
         "id": 20,
         "name": "Sudais and Shuraym",
         "arabicName": "السديس والشريم",
-        "relativePath": "sodais_and_shuraim\u002F",
+        "relativePath": "sodais_and_shuraim/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -362,7 +372,7 @@
         "id": 21,
         "name": "AbdulAzeez al-Ahmad",
         "arabicName": "عبدالعزيز الحمد",
-        "relativePath": "abdulazeez_al-ahmad\u002F",
+        "relativePath": "abdulazeez_al-ahmad/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -376,7 +386,7 @@
         "id": 22,
         "name": "Muhammad Ayyoob",
         "arabicName": "محمد أيوب",
-        "relativePath": "muhammad_ayyoob\u002F",
+        "relativePath": "muhammad_ayyoob/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -390,7 +400,7 @@
         "id": 23,
         "name": "Tawfeeq ibn Sa`id as-Sawa'igh",
         "arabicName": "توفيق بن سعيد الصائغ",
-        "relativePath": "tawfeeq_bin_saeed-as-sawaaigh\u002F",
+        "relativePath": "tawfeeq_bin_saeed-as-sawaaigh/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -404,7 +414,7 @@
         "id": 24,
         "name": "Abdullah Ali Jabir [Taraweeh]",
         "arabicName": "عبدالله علي جابر",
-        "relativePath": "abdullaah_alee_jaabir\u002F",
+        "relativePath": "abdullaah_alee_jaabir/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -418,11 +428,11 @@
         "id": 25,
         "name": "Madinah Taraweeh 1419",
         "arabicName": "تراويح المدينة ١٤١٩",
-        "relativePath": "madinah_1419\u002F",
+        "relativePath": "madinah_1419/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Al-Madinah. Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhaynee\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F15\\\"\u003EAbdulBari ath-Thubaity\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Al-Madinah. Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhaynee</a>, <a href=\\\"http://quranicaudio.com/quran/15\\\">AbdulBari ath-Thubaity</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, and <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1419 [128Kbps].torrent",
         "torrentInfoHash": "540bcd64ea0accfe950b03d8c1546b5262532d52",
         "torrentSeeders": 2,
@@ -432,7 +442,7 @@
         "id": 26,
         "name": "Muhammad al-Mehysni",
         "arabicName": "محمد المحيسني",
-        "relativePath": "mehysni\u002F",
+        "relativePath": "mehysni/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -446,7 +456,7 @@
         "id": 27,
         "name": "Hani ar-Rifai",
         "arabicName": "هاني الرفاعي",
-        "relativePath": "rifai\u002F",
+        "relativePath": "rifai/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -460,7 +470,7 @@
         "id": 28,
         "name": "Ibrahim Al-Jibrin",
         "arabicName": "إبراهيم الجبرين",
-        "relativePath": "jibreen\u002F",
+        "relativePath": "jibreen/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -474,11 +484,11 @@
         "id": 29,
         "name": "Makkah Taraweeh 1426",
         "arabicName": "تراويح مكة ١٤٢٦",
-        "relativePath": "makkah_1426\u002F",
+        "relativePath": "makkah_1426/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid al-Haram in Makkah Al-Mukarramah, 1426 H.\u002F2005 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjid al-Haram in Makkah Al-Mukarramah, 1426 H./2005 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, and <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1426 [192Kbps].torrent",
         "torrentInfoHash": "41a2f392b771c379326bdd96523aa65a5021b5ed",
         "torrentSeeders": 0,
@@ -488,11 +498,11 @@
         "id": 30,
         "name": "Madinah Taraweeh 1426",
         "arabicName": "تراويح المدينة ١٤٢٦",
-        "relativePath": "madinah_1426\u002F",
+        "relativePath": "madinah_1426/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid al-Nabawi, 1426 H\u002F2005 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Adur-Rahman al-Huthaify\u003C\u002Fa\u003E, Hussain Aal ash-Shaykh, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjid al-Nabawi, 1426 H/2005 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Adur-Rahman al-Huthaify</a>, Hussain Aal ash-Shaykh, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, and <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1426 [192Kbps].torrent",
         "torrentInfoHash": "6cf89a696c93c7af373b5eb13657a19a3a484528",
         "torrentSeeders": 2,
@@ -502,7 +512,7 @@
         "id": 31,
         "name": "Saad al-Ghamdi (Partial)",
         "arabicName": "سعد الغامدي - غير مكتمل",
-        "relativePath": "sa3d_al-ghaamidi\u002Fhidayah\u002F",
+        "relativePath": "sa3d_al-ghaamidi/hidayah/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -516,7 +526,7 @@
         "id": 32,
         "name": "Muhammad Jibreel (Partial)",
         "arabicName": "محمد جبريل - غير مكتمل",
-        "relativePath": "muhammad_jibreel\u002Fhidayah\u002F",
+        "relativePath": "muhammad_jibreel/hidayah/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -530,11 +540,11 @@
         "id": 33,
         "name": "Madinah Taraweeh 1427",
         "arabicName": "تراويح المدينة ١٤٢٧",
-        "relativePath": "madinah_1427\u002F",
+        "relativePath": "madinah_1427/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid al-Nabawi, 1427 H.\u002F2006 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, and Hussain Aal ash-Shaykh.",
+        "description": "This is Live Recitation from Masjid al-Nabawi, 1427 H./2006 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, and Hussain Aal ash-Shaykh.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1427 [192Kbps].torrent",
         "torrentInfoHash": "c3ce9534ece513db22b79030f059e12e321a0582",
         "torrentSeeders": 1,
@@ -544,11 +554,11 @@
         "id": 34,
         "name": "Makkah Taraweeh 1427",
         "arabicName": "تراويح مكة ١٤٢٧",
-        "relativePath": "makkah_1427\u002F",
+        "relativePath": "makkah_1427/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid al-Haram in Makkah Al-Mukarramah, 1427 H.\u002F2006 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjid al-Haram in Makkah Al-Mukarramah, 1427 H./2006 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, and <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1427 [192Kbps].torrent",
         "torrentInfoHash": "30552d171183080ba25a44c6f0b73cd1cab71248",
         "torrentSeeders": 1,
@@ -558,7 +568,7 @@
         "id": 35,
         "name": "Saleh al Taleb",
         "arabicName": "صالح آل طالب",
-        "relativePath": "saleh_al_taleb\u002F",
+        "relativePath": "saleh_al_taleb/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -572,11 +582,11 @@
         "id": 36,
         "name": "Sudais and Shuraym with Aslam Athar [Pickthall Translation]",
         "arabicName": "السديس والشريم مع اسلم اظهر - ترجمة معاني القران الكريم باللغة النجليزية - بيكثال",
-        "relativePath": "sudais_shuraim_and_english\u002F",
+        "relativePath": "sudais_shuraim_and_english/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003ESudais\u003C\u002Fa\u003E and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003EShuraim\u003C\u002Fa\u003E.  The English is read by \u003Cb\u003EAslam Athar\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=33\\\"\u003EPickthall Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <a href=\\\"http://quranicaudio.com/quran/7\\\">Sudais</a> and <a href=\\\"http://quranicaudio.com/quran/4\\\">Shuraim</a>.  The English is read by <b>Aslam Athar</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=33\\\">Pickthall Translation</a>.",
         "torrentFilename": "[Quran] Sudais and Shuraym with Aslam Athar [Pickthall Translation] [192Kbps].torrent",
         "torrentInfoHash": "e4c78bad75d4a93ec05ae55c1885061a81e4f1cd",
         "torrentSeeders": 1,
@@ -586,7 +596,7 @@
         "id": 37,
         "name": "AbdulBaset AbdulSamad [Murattal]",
         "arabicName": "عبد الباسط عبد الصمد - مرتل",
-        "relativePath": "abdul_basit_murattal\u002F",
+        "relativePath": "abdul_basit_murattal/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -600,11 +610,11 @@
         "id": 39,
         "name": "Muhammad Ayyub with Mikaal Waters [Muhsin Khan Translation]",
         "arabicName": "محمد أيوب مع ميكال وترز - ترجمة معاني القران الكريم باللغة النجليزية - محسن خان",
-        "relativePath": "muhammad_ayub_and_mikaal_waters\u002F",
+        "relativePath": "muhammad_ayub_and_mikaal_waters/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F22\\\"\u003EShaykh Muhammad Ayoob\u003C\u002Fa\u003E. The English is read by \u003Cb\u003EMikaal Waters\u003C\u002Fb\u003E using the Muhsin Khan Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <a href=\\\"https://quranicaudio.com/quran/22\\\">Shaykh Muhammad Ayoob</a>. The English is read by <b>Mikaal Waters</b> using the Muhsin Khan Translation</a>.",
         "torrentFilename": "[Quran] Muhammad Ayyub with Mikaal Waters [Muhsin Khan Translation] [192Kbps].torrent",
         "torrentInfoHash": "01d38dfeca6435dd46efc61b8ae5571ccb8b1836",
         "torrentSeeders": 2,
@@ -614,7 +624,7 @@
         "id": 40,
         "name": "AbdulWadud Haneef",
         "arabicName": "عبد الودود حنيف",
-        "relativePath": "abdulwadood_haneef\u002F",
+        "relativePath": "abdulwadood_haneef/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -628,7 +638,7 @@
         "id": 41,
         "name": "Muhammad Siddiq al-Minshawi [Mujawwad]",
         "arabicName": "محمد صديق المنشاوي - مجود",
-        "relativePath": "minshawi_mujawwad\u002F",
+        "relativePath": "minshawi_mujawwad/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -642,11 +652,11 @@
         "id": 42,
         "name": "Shakir Qasami with Aslam Athar [Pickthall Translation]",
         "arabicName": "شاكر قاسمى مع اسلم اظهر - ترجمة معاني القران الكريم باللغة النجليزية - بيكثال",
-        "relativePath": "shakir_qasami_with_english\u002F",
+        "relativePath": "shakir_qasami_with_english/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Cb\u003EShaykh Shakir Qasami\u003C\u002Fb\u003E.  The English is read by \u003Cb\u003EAslam Athar\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=33\\\"\u003EPickthall Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <b>Shaykh Shakir Qasami</b>.  The English is read by <b>Aslam Athar</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=33\\\">Pickthall Translation</a>.",
         "torrentFilename": "[Quran] Shakir Qasami with Aslam Athar [Pickthall Translation] [128Kbps - 160Kbps].torrent",
         "torrentInfoHash": "ce645f86e145723cf5667551f53d28ecfca51af7",
         "torrentSeeders": 0,
@@ -656,7 +666,7 @@
         "id": 43,
         "name": "Salah al-Budair",
         "arabicName": "صلح البدير",
-        "relativePath": "salahbudair\u002F",
+        "relativePath": "salahbudair/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -670,7 +680,7 @@
         "id": 44,
         "name": "Aziz Alili",
         "arabicName": "عزيز عليلى",
-        "relativePath": "aziz_alili\u002F",
+        "relativePath": "aziz_alili/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -684,11 +694,11 @@
         "id": 45,
         "name": "Makkah Taraweeh 1425",
         "arabicName": "تراويح مكة ١٤٢٥",
-        "relativePath": "makkah_1425\u002F",
+        "relativePath": "makkah_1425/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1425 H.\u002F2004 A.D.  Contains 2 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1425 H./2004 A.D.  Contains 2 Imams: <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a> and <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1425 [161Kbps - 192Kbps].torrent",
         "torrentInfoHash": "2f623ac9bfe3af70469fdcb8d41fea5ae42c52e1",
         "torrentSeeders": 2,
@@ -698,11 +708,11 @@
         "id": 46,
         "name": "Madinah Taraweeh 1423",
         "arabicName": "تراويح المدينة ١٤٢٣",
-        "relativePath": "madinah_1423\u002F",
+        "relativePath": "madinah_1423/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidun-Nabawi, 1423 H.\u002F2002 A.D.  Contains 5 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F15\\\"\u003EAbdulBari ath-Thubaity\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, and Hussain Aal Ash-Shaykh.",
+        "description": "This is Live Recitation from Masjidun-Nabawi, 1423 H./2002 A.D.  Contains 5 Imams:  <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, <a href=\\\"http://quranicaudio.com/quran/15\\\">AbdulBari ath-Thubaity</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, and Hussain Aal Ash-Shaykh.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1423 [192Kbps].torrent",
         "torrentInfoHash": "beef352976bd0570717001b30b6a98ce8bd25b51",
         "torrentSeeders": 0,
@@ -712,11 +722,11 @@
         "id": 47,
         "name": "AbdulBaset AbdulSamad with Naeem Sultan [Pickthall Translation]",
         "arabicName": "عبد الباسط عبد الصمد مع نعيم سلطان - ترجمة معاني القران الكريم باللغة النجليزية - بيكثال",
-        "relativePath": "abdulbaset_with_naeem_sultan_pickthall\u002F",
+        "relativePath": "abdulbaset_with_naeem_sultan_pickthall/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Cb\u003EAbdulBaset AbdulSamad\u003C\u002Fb\u003E [\u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F37\\\"\u003EMurattal\u003C\u002Fa\u003E\u002F\u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F50\\\"\u003EMujawwad\u003C\u002Fa\u003E].  The English is read by \u003Cb\u003ENaeem Sultan\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=33\\\"\u003EPickthall Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <b>AbdulBaset AbdulSamad</b> [<a href=\\\"http://quranicaudio.com/quran/37\\\">Murattal</a>/<a href=\\\"http://quranicaudio.com/quran/50\\\">Mujawwad</a>].  The English is read by <b>Naeem Sultan</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=33\\\">Pickthall Translation</a>.",
         "torrentFilename": "[Quran] AbdulBaset AbdulSamad with Naeem Sultan [Pickthall Translation] [80Kbps].torrent",
         "torrentInfoHash": "83a0ccdabec46646cdfd2b7b5133910e0d899b1c",
         "torrentSeeders": 2,
@@ -726,11 +736,11 @@
         "id": 48,
         "name": "Sudais and Shuraym with Naeem Sultan [Pickthall Translation]",
         "arabicName": "السديس والشريم مع نعيم سلطان - ترجمة معاني القران الكريم باللغة النجليزية - بيكثال",
-        "relativePath": "sudais_shuraim_with_naeem_sultan_pickthall\u002F",
+        "relativePath": "sudais_shuraim_with_naeem_sultan_pickthall/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003ESudais\u003C\u002Fa\u003E and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003EShuraim\u003C\u002Fa\u003E.  The English is read by \u003Cb\u003ENaeem Sultan\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=33\\\"\u003EPickthall Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <a href=\\\"http://quranicaudio.com/quran/7\\\">Sudais</a> and <a href=\\\"http://quranicaudio.com/quran/4\\\">Shuraim</a>.  The English is read by <b>Naeem Sultan</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=33\\\">Pickthall Translation</a>.",
         "torrentFilename": "[Quran] Sudais and Shuraym with Naeem Sultan [Pickthall Translation] [64Kbps - 80Kbps].torrent",
         "torrentInfoHash": "c1fe0225e58a0d20ed9d653ed0497b3fb03a9e4b",
         "torrentSeeders": 2,
@@ -740,11 +750,11 @@
         "id": 49,
         "name": "Mishari ibn Rashid al-`Afasy with Saabir [Muhsin Khan Translation]",
         "arabicName": "مشارى راشد مع صابر - ترجمة معاني القران الكريم باللغة النجليزية - محسن خان",
-        "relativePath": "mishaari_with_saabir_mkhan\u002F",
+        "relativePath": "mishaari_with_saabir_mkhan/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F5\\\"\u003EShaykh Mishaari Raashid\u003C\u002Fa\u003E. The English is read by \u003Cb\u003ESaabir\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=9\\\"\u003EMuhsin Khan Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <a href=\\\"http://quranicaudio.com/quran/5\\\">Shaykh Mishaari Raashid</a>. The English is read by <b>Saabir</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=9\\\">Muhsin Khan Translation</a>.",
         "torrentFilename": "[Quran] Mishari ibn Rashid al-`Afasy with Saabir [Muhsin Khan Translation] [160Kbps - 192Kbps].torrent",
         "torrentInfoHash": "11ef61ae5ab7265f3265ba496c757e0bda3959bc",
         "torrentSeeders": 1,
@@ -754,7 +764,7 @@
         "id": 50,
         "name": "AbdulBaset AbdulSamad [Mujawwad]",
         "arabicName": "عبد الباسط عبد الصمد - مجود",
-        "relativePath": "abdulbaset_mujawwad\u002F",
+        "relativePath": "abdulbaset_mujawwad/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -768,7 +778,7 @@
         "id": 51,
         "name": "Maher al-Muaiqly [Assorted]",
         "arabicName": "ماهر المعيقلى - متنوعة",
-        "relativePath": "maher_almu3aiqly\u002Fyear1424-1425\u002F",
+        "relativePath": "maher_almu3aiqly/year1424-1425/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -782,7 +792,7 @@
         "id": 52,
         "name": "Maher al-Muaiqly [1422-1423]",
         "arabicName": "ماهر المعيقلى - ١٤٢٢-١٤٢٣",
-        "relativePath": "maher_almu3aiqly\u002Fyear1422-1423\u002F",
+        "relativePath": "maher_almu3aiqly/year1422-1423/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -796,7 +806,7 @@
         "id": 53,
         "name": "Muhammad al-Luhaidan",
         "arabicName": "محمد اللحيدان",
-        "relativePath": "muhammad_alhaidan\u002F",
+        "relativePath": "muhammad_alhaidan/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -810,7 +820,7 @@
         "id": 54,
         "name": "AbdulBaset AbdulSamad [Warsh]",
         "arabicName": "عبد الباسط عبد الصمد - ورش",
-        "relativePath": "abdulbaset_warsh\u002F",
+        "relativePath": "abdulbaset_warsh/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
@@ -824,7 +834,7 @@
         "id": 55,
         "name": "Al-Hussayni Al-'Azazy (with Children)",
         "arabicName": "الحسيني العزازي مع اطفال",
-        "relativePath": "alhusaynee_al3azazee_with_children\u002F",
+        "relativePath": "alhusaynee_al3azazee_with_children/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -838,7 +848,7 @@
         "id": 56,
         "name": "Ibrahim Al-Jibreen [1426-1427]",
         "arabicName": "إبراهيم الجبرين - ١٤٢٦-١٤٢٧",
-        "relativePath": "jibreen\u002Fjibreen_1426-1427\u002F",
+        "relativePath": "jibreen/jibreen_1426-1427/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": null,
@@ -852,11 +862,11 @@
         "id": 57,
         "name": "AbdulBaset AbdulSamad with Ibrahim Walk [Saheeh Intl Translation]",
         "arabicName": "عبد الباسط عبد الصمد مع إبراهيم واق - ترجمة معاني القران الكريم باللغة النجليزية - صحيح الدولي",
-        "relativePath": "abdulbasit_w_ibrahim_walk_si\u002F",
+        "relativePath": "abdulbasit_w_ibrahim_walk_si/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Cb\u003EAbdulBaset AbdulSamad\u003C\u002Fb\u003E [\u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F37\\\"\u003EMurattal\u003C\u002Fa\u003E\u002F\u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F50\\\"\u003EMujawwad\u003C\u002Fa\u003E].  The English is read by \u003Cb\u003EIbrahaim Walk\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=257\\\"\u003ESaheeh International Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <b>AbdulBaset AbdulSamad</b> [<a href=\\\"http://quranicaudio.com/quran/37\\\">Murattal</a>/<a href=\\\"http://quranicaudio.com/quran/50\\\">Mujawwad</a>].  The English is read by <b>Ibrahaim Walk</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=257\\\">Saheeh International Translation</a>.",
         "torrentFilename": "[Quran] AbdulBaset AbdulSamad with Ibrahim Walk [Saheeh Intl Translation] [192Kbps].torrent",
         "torrentInfoHash": "1c0093bced211d5a0fd3d7be096ff186cd99ca3e",
         "torrentSeeders": 0,
@@ -866,11 +876,11 @@
         "id": 58,
         "name": "Mishari ibn Rashid al-`Afasy with Ibrahim Walk [Saheeh Intl Translation]",
         "arabicName": "مشارى راشد مع إبراهيم واق - ترجمة معاني القران الكريم باللغة النجليزية - صحيح الدولي",
-        "relativePath": "mishaari_w_ibrahim_walk_si\u002F",
+        "relativePath": "mishaari_w_ibrahim_walk_si/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F5\\\"\u003EShaykh Mishaari Raashid\u003C\u002Fa\u003E. The English is read by \u003Cb\u003EIbrahaim Walk\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=257\\\"\u003ESaheeh International Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <a href=\\\"http://quranicaudio.com/quran/5\\\">Shaykh Mishaari Raashid</a>. The English is read by <b>Ibrahaim Walk</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=257\\\">Saheeh International Translation</a>.",
         "torrentFilename": "[Quran] Mishari ibn Rashid al-`Afasy with Ibrahim Walk [Saheeh Intl Translation] [128Kbps - 192Kbps].torrent",
         "torrentInfoHash": "b98865af8f1ef5993b1858f9594ce535ee85c45b",
         "torrentSeeders": 0,
@@ -880,11 +890,11 @@
         "id": 59,
         "name": "Makkah Taraweeh 1428",
         "arabicName": "تراويح مكة ١٤٢٨",
-        "relativePath": "makkah_1428\u002F",
+        "relativePath": "makkah_1428/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1428 H.\u002F2007 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1428 H./2007 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, and <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1428 [192Kbps].torrent",
         "torrentInfoHash": "5e6d82a0b9cca6d450bb72937dfe13f396438db3",
         "torrentSeeders": 1,
@@ -894,7 +904,7 @@
         "id": 60,
         "name": "Abdur-Rashid Sufi [Soosi]",
         "arabicName": "عبد الرشيد صوفي - السوسي",
-        "relativePath": "abdurrashid_sufi_soosi_rec\u002F",
+        "relativePath": "abdurrashid_sufi_soosi_rec/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
@@ -908,7 +918,7 @@
         "id": 61,
         "name": "Sadaqat `Ali",
         "arabicName": "صدقات علي",
-        "relativePath": "sadaqat_ali\u002F",
+        "relativePath": "sadaqat_ali/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -922,7 +932,7 @@
         "id": 62,
         "name": "Abdur-Rashid Sufi [Khalaf]",
         "arabicName": "عبد الرشيد صوفي - خلف",
-        "relativePath": "abdurrashid_sufi_-_khalaf_3an_7amza_recitation\u002F",
+        "relativePath": "abdurrashid_sufi_-_khalaf_3an_7amza_recitation/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
@@ -936,11 +946,11 @@
         "id": 63,
         "name": "Makkah Taraweeh 1424",
         "arabicName": "تراويح مكة ١٤٢٤",
-        "relativePath": "makkah_1424\u002F",
+        "relativePath": "makkah_1424/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1424 H.\u002F2003 A.D.  Contains 3 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F35\\\"\u003ESaleh al Taleb\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1424 H./2003 A.D.  Contains 3 Imams: <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, and <a href=\\\"http://quranicaudio.com/quran/35\\\">Saleh al Taleb</a>.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1424 [128Kbps].torrent",
         "torrentInfoHash": "75c73606b8da74c7260b3ab0ead973428840c04a",
         "torrentSeeders": 0,
@@ -950,7 +960,7 @@
         "id": 64,
         "name": "Hamad Sinan",
         "arabicName": "حامد سنان",
-        "relativePath": "hamad_sinan\u002F",
+        "relativePath": "hamad_sinan/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -964,11 +974,11 @@
         "id": 65,
         "name": "Maher al-Muaiqly",
         "arabicName": "ماهر المعيقلى",
-        "relativePath": "maher_256\u002F",
+        "relativePath": "maher_256/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
-        "description": "Sheikh Maher al-Muaiqly lead at both al-Masjid al-Haram in Makkah, and at Masjid al-Nabawi in Madinah.  These recitations were converted into mp3s from the files on \u003Ca href=\\\"http:\u002F\u002Fwww.almuaiqly.com\\\"\u003Ethe official webpage\u003C\u002Fa\u003E.  The recitations on this page are from the years 1424-1425.  Some of his other recitations can be found in the \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F30\\\"\u003EMadinah Taraweeh 1426\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F33\\\"\u003EMadinah Taraweeh 1427\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F59\\\"\u003EMakkah Taraweeh 1428\u003C\u002Fa\u003E sets.  This is a high quality, 256kbps version of Sheikh Maher's recitation, courtesy of \u003Ca href=\\\"http:\u002F\u002Fwww.almuaiqly.com\\\"\u003EAl-Muaiqly.com\u003C\u002Fa\u003E.",
+        "description": "Sheikh Maher al-Muaiqly lead at both al-Masjid al-Haram in Makkah, and at Masjid al-Nabawi in Madinah.  These recitations were converted into mp3s from the files on <a href=\\\"http://www.almuaiqly.com\\\">the official webpage</a>.  The recitations on this page are from the years 1424-1425.  Some of his other recitations can be found in the <a href=\\\"http://quranicaudio.com/quran/30\\\">Madinah Taraweeh 1426</a>, <a href=\\\"http://quranicaudio.com/quran/33\\\">Madinah Taraweeh 1427</a>, and <a href=\\\"http://quranicaudio.com/quran/59\\\">Makkah Taraweeh 1428</a> sets.  This is a high quality, 256kbps version of Sheikh Maher's recitation, courtesy of <a href=\\\"http://www.almuaiqly.com\\\">Al-Muaiqly.com</a>.",
         "torrentFilename": "[Quran] Maher al-Muaiqly [128Kbps - 256Kbps].torrent",
         "torrentInfoHash": "20103cb07dc1c8096385468518437cec2f20c12a",
         "torrentSeeders": 7,
@@ -978,11 +988,11 @@
         "id": 66,
         "name": "Abdullah Basfar with Ibrahim Walk [Saheeh Intl Translation]",
         "arabicName": "عبد الله بصفر مع إبراهيم واق - ترجمة معاني القران الكريم باللغة النجليزية - صحيح الدولي",
-        "relativePath": "abdullah_basfar_w_ibrahim_walk_si\u002F",
+        "relativePath": "abdullah_basfar_w_ibrahim_walk_si/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F2\\\"\u003EShaykh Abdullah Basfar\u003C\u002Fa\u003E. The English is read by \u003Cb\u003EIbrahaim Walk\u003C\u002Fb\u003E using the \u003Ca href=\\\"http:\u002F\u002Fsearchquran.net\u002Fquran.php?q=1&langs=257\\\"\u003ESaheeh International Translation\u003C\u002Fa\u003E.",
+        "description": "This is the complete set of the Holy Qur'an along with an English Verse-by-Verse translation. The Arabic is recited by <a href=\\\"http://quranicaudio.com/quran/2\\\">Shaykh Abdullah Basfar</a>. The English is read by <b>Ibrahaim Walk</b> using the <a href=\\\"http://searchquran.net/quran.php?q=1&langs=257\\\">Saheeh International Translation</a>.",
         "torrentFilename": "[Quran] Abdullah Basfar with Ibrahim Walk [Saheeh Intl Translation] [192Kbps].torrent",
         "torrentInfoHash": "de2df42d4352b18e443e344041b8b640a2317da3",
         "torrentSeeders": 1,
@@ -992,11 +1002,11 @@
         "id": 67,
         "name": "Sudais and Shuraym [Urdu Translation]",
         "arabicName": "السديس والشريم - ترجمة معاني القران الكريم باللغة الردية",
-        "relativePath": "sudais_and_shuraim_with_urdu\u002F",
+        "relativePath": "sudais_and_shuraim_with_urdu/",
         "fileFormats": "mp3",
         "sectionId": 4,
         "home": true,
-        "description": "This is the complete set of the Holy Qur'an along with an Urdu translation. The Arabic is recited by \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003ESudais\u003C\u002Fa\u003E and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003EShuraim\u003C\u002Fa\u003E.  Special thanks to our friends at \u003Ca href=\\\"http:\u002F\u002Faswatalislam.net\\\"\u003EAswat Al-Islam\u003C\u002Fa\u003E for this collection.",
+        "description": "This is the complete set of the Holy Qur'an along with an Urdu translation. The Arabic is recited by <a href=\\\"http://quranicaudio.com/quran/7\\\">Sudais</a> and <a href=\\\"http://quranicaudio.com/quran/4\\\">Shuraim</a>.  Special thanks to our friends at <a href=\\\"http://aswatalislam.net\\\">Aswat Al-Islam</a> for this collection.",
         "torrentFilename": "[Quran] Sudais and Shuraym [Urdu Translation] [128Kbps].torrent",
         "torrentInfoHash": "19ecb0fe1e628cc4c14bf1128252c7970bd7c029",
         "torrentSeeders": 2,
@@ -1006,11 +1016,11 @@
         "id": 68,
         "name": "Abdur-Razaq bin Abtan al-Dulaimi [Mujawwad]",
         "arabicName": "عبد الرزاق بن عبطان الدليمي - مجود",
-        "relativePath": "abdulrazaq_bin_abtan_al_dulaimi\u002F",
+        "relativePath": "abdulrazaq_bin_abtan_al_dulaimi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "This is the mujawwad recitation for \u003Ca href=\\\"http:\u002F\u002Fwww.islamhouse.com\u002Fp\u002F108470\\\"\u003ESheikh AbdulRazaq bin Abtan Al-Dulaimi\u003C\u002Fa\u003E.  These files are provided courtesy of \u003Ca href=\\\"http:\u002F\u002Fwww.islamhouse.com\u002Fp\u002F108470\\\"\u003Eislamhouse.com\u003C\u002Fa\u003E.",
+        "description": "This is the mujawwad recitation for <a href=\\\"http://www.islamhouse.com/p/108470\\\">Sheikh AbdulRazaq bin Abtan Al-Dulaimi</a>.  These files are provided courtesy of <a href=\\\"http://www.islamhouse.com/p/108470\\\">islamhouse.com</a>.",
         "torrentFilename": "[Quran] Abdur-Razaq bin Abtan al-Dulaimi [Mujawwad] [128Kbps].torrent",
         "torrentInfoHash": "356573471bd529a872e97fdf43bcdf6b11c77347",
         "torrentSeeders": 2,
@@ -1020,7 +1030,7 @@
         "id": 69,
         "name": "Abdullah Ali Jabir",
         "arabicName": "عبدالله علي جابر - ستديو",
-        "relativePath": "abdullaah_alee_jaabir_studio\u002F",
+        "relativePath": "abdullaah_alee_jaabir_studio/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -1034,11 +1044,11 @@
         "id": 70,
         "name": "Muhammad Abdul-Kareem",
         "arabicName": "محمد عبدالكريم",
-        "relativePath": "muhammad_abdulkareem\u002F",
+        "relativePath": "muhammad_abdulkareem/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "May Allah reward the brothers at \u003Ca href=\\\"http:\u002F\u002Fislamhouse.com\\\"\u003EIslamHouse\u003C\u002Fa\u003E for these files.",
+        "description": "May Allah reward the brothers at <a href=\\\"http://islamhouse.com\\\">IslamHouse</a> for these files.",
         "torrentFilename": "[Quran] Muhammad Abdul-Kareem [128Kbps].torrent",
         "torrentInfoHash": "18ae1f700e2ce0e6e03c22f17b2083957185a3d9",
         "torrentSeeders": 3,
@@ -1048,7 +1058,7 @@
         "id": 71,
         "name": "Mustafa al-`Azawi",
         "arabicName": "مصطفى العزاوى",
-        "relativePath": "mustafa_al3azzawi\u002F",
+        "relativePath": "mustafa_al3azzawi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1062,11 +1072,11 @@
         "id": 72,
         "name": "Abdullah Khayat",
         "arabicName": "عبدالله خياط",
-        "relativePath": "khayat\u002F",
+        "relativePath": "khayat/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to \u003Ca href=\\\"http:\u002F\u002Fmp3quran.net\\\"\u003Emp3quran.net\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to <a href=\\\"http://mp3quran.net\\\">mp3quran.net</a> for this recitation.",
         "torrentFilename": "[Quran] Abdullah Khayat [128Kbps].torrent",
         "torrentInfoHash": "c3860b4ac358b33a17a013145dd069afb295205f",
         "torrentSeeders": 1,
@@ -1076,11 +1086,11 @@
         "id": 73,
         "name": "Madinah Taraweeh 1428",
         "arabicName": "تراويح المدينة ١٤٢٨",
-        "relativePath": "madinah_1428\u002F",
+        "relativePath": "madinah_1428/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1428 H.\u002F2007 A.D.  Recited by 4 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, and Hussain Aal ash-Shaykh.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fshuraym.com\\\"\u003Eshuraym.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1428 H./2007 A.D.  Recited by 4 Imams: <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, and Hussain Aal ash-Shaykh.  Special thanks to <a href=\\\"http://shuraym.com\\\">shuraym.com</a> for this recitation.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1428 [128Kbps].torrent",
         "torrentInfoHash": "5b95554123737f731c449ccdd49b31824bf99f27",
         "torrentSeeders": 0,
@@ -1090,7 +1100,7 @@
         "id": 74,
         "name": "Dr. Shawqy Hamed [Murattal]",
         "arabicName": "الدكتور شوقي حامد - مرتل",
-        "relativePath": "dr.shawqy_7amed\u002Fmurattal\u002F",
+        "relativePath": "dr.shawqy_7amed/murattal/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1104,7 +1114,7 @@
         "id": 75,
         "name": "Dr. Shawqy Hamed [Mujawwad]",
         "arabicName": "الدكتور شوقي حامد - مجود",
-        "relativePath": "dr.shawqy_7amed\u002Fmujawwad\u002F",
+        "relativePath": "dr.shawqy_7amed/mujawwad/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": null,
@@ -1118,11 +1128,11 @@
         "id": 77,
         "name": "Makkah Taraweeh 1429",
         "arabicName": "تراويح مكة ١٤٢٩",
-        "relativePath": "makkah_1429\u002F",
+        "relativePath": "makkah_1429/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1429 H.\u002F2008 A.D.  Contains 5 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, Adil al-Kalbaani, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1429 H./2008 A.D.  Contains 5 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, Adil al-Kalbaani, and <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1429 [192Kbps].torrent",
         "torrentInfoHash": "b05e3252cba1c7b86c3d2164418c0b719af603ae",
         "torrentSeeders": 1,
@@ -1132,7 +1142,7 @@
         "id": 78,
         "name": "Mahmoud Khalil Al-Husary [Doori]",
         "arabicName": "محمود خليل الحصري - دوري",
-        "relativePath": "mahmood_khaleel_al-husaree_doori\u002F",
+        "relativePath": "mahmood_khaleel_al-husaree_doori/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
@@ -1146,11 +1156,11 @@
         "id": 79,
         "name": "Muhammad Hassan",
         "arabicName": "محمد حسان",
-        "relativePath": "mu7ammad_7assan\u002F",
+        "relativePath": "mu7ammad_7assan/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to \u003Ca href=\\\"http:\u002F\u002Fwww.4quran.com\\\"\u003E4quran.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to <a href=\\\"http://www.4quran.com\\\">4quran.com</a> for this recitation.",
         "torrentFilename": "[Quran] Muhammad Hassan [127Kbps - 160Kbps].torrent",
         "torrentInfoHash": "910eaa1381eae4c4d89e6777773288f2b3fe51cd",
         "torrentSeeders": 0,
@@ -1160,11 +1170,11 @@
         "id": 80,
         "name": "Salah Al-Hashim",
         "arabicName": "صلح الهاشم",
-        "relativePath": "salah_alhashim\u002F",
+        "relativePath": "salah_alhashim/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to \u003Ca href=\\\"http:\u002F\u002Fwww.el-moslem.com\\\"\u003EEl-Moslem.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to <a href=\\\"http://www.el-moslem.com\\\">El-Moslem.com</a> for this recitation.",
         "torrentFilename": "[Quran] Salah Al-Hashim [128Kbps].torrent",
         "torrentInfoHash": "18d42b45b132d4f90591eb7183cf1b17c7fce9d3",
         "torrentSeeders": 0,
@@ -1174,7 +1184,7 @@
         "id": 81,
         "name": "Adel Kalbani",
         "arabicName": null,
-        "relativePath": "adel_kalbani\u002F",
+        "relativePath": "adel_kalbani/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1188,11 +1198,11 @@
         "id": 82,
         "name": "Makkah Taraweeh 1430",
         "arabicName": null,
-        "relativePath": "makkah_1430\u002F",
+        "relativePath": "makkah_1430/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1430 H.\u002F2009 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1430 H./2009 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, and <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1430 [128Kbps].torrent",
         "torrentInfoHash": "487e625fb336de2f02ff4d7d38319e206e658797",
         "torrentSeeders": 0,
@@ -1202,11 +1212,11 @@
         "id": 83,
         "name": "Makkah Taraweeh 1431",
         "arabicName": "تراويح مكة",
-        "relativePath": "makkah_1431\u002F",
+        "relativePath": "makkah_1431/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1431 H.\u002F2010 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fwww.haramainrecordings.com\\\"\u003Eharamainrecordings.com\u003C\u002Fa\u003E for this recitation. ",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1431 H./2010 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, and <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>.  Special thanks to <a href=\\\"http://www.haramainrecordings.com\\\">haramainrecordings.com</a> for this recitation. ",
         "torrentFilename": "[Quran] Makkah Taraweeh 1431 [128Kbps].torrent",
         "torrentInfoHash": "14969b1a7fb4236cbf4723ea4074e50fad040893",
         "torrentSeeders": null,
@@ -1216,11 +1226,11 @@
         "id": 84,
         "name": "Madinah Taraweeh 1431",
         "arabicName": null,
-        "relativePath": "madinah_1431\u002F",
+        "relativePath": "madinah_1431/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1431 H.\u002F2010 A.D.  Recited by 5 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Khalid al-Ghamdi, and Hussain Aal ash-Shaykh.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fshuraym.com\\\"\u003Eshuraym.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1431 H./2010 A.D.  Recited by 5 Imams: <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Khalid al-Ghamdi, and Hussain Aal ash-Shaykh.  Special thanks to <a href=\\\"http://shuraym.com\\\">shuraym.com</a> for this recitation.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1431 [128Kbps].torrent",
         "torrentInfoHash": "a4e7769822b1577c2839ba0e7c0c8d21a91dcbe1",
         "torrentSeeders": null,
@@ -1230,11 +1240,11 @@
         "id": 85,
         "name": "Hatem Farid",
         "arabicName": "حاتم فريد",
-        "relativePath": "hatem_farid\u002Fcollection\u002F",
+        "relativePath": "hatem_farid/collection/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "This is the recitation for Sheikh Hatem Farid.  This particular recitation was contributed by a user of this website, and many of these recitations come from \u003Ca href=\\\"http:\u002F\u002Fel-moslem.com\\\"\u003Eel-moslem.com\u003C\u002Fa\u003E.",
+        "description": "This is the recitation for Sheikh Hatem Farid.  This particular recitation was contributed by a user of this website, and many of these recitations come from <a href=\\\"http://el-moslem.com\\\">el-moslem.com</a>.",
         "torrentFilename": "[Quran] Hatem Farid [56Kbps - 256Kbps].torrent",
         "torrentInfoHash": "f7abce08d49cea55d5d793092c7934fa20349f65",
         "torrentSeeders": null,
@@ -1244,11 +1254,11 @@
         "id": 86,
         "name": "Hatem Farid - Taraweeh 1432",
         "arabicName": "حاتم فريد",
-        "relativePath": "hatem_farid\u002Ftaraweeh1432\u002F",
+        "relativePath": "hatem_farid/taraweeh1432/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": null,
-        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1432 A.H. (2011 A.D.).  This recitation comes from \u003Ca href=\\\"http:\u002F\u002Fhatemfarid.com\\\"\u003Ehatemfarid.com\u003C\u002Fa\u003E.",
+        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1432 A.H. (2011 A.D.).  This recitation comes from <a href=\\\"http://hatemfarid.com\\\">hatemfarid.com</a>.",
         "torrentFilename": "[Quran] Hatem Farid - Taraweeh 1432 [128Kbps].torrent",
         "torrentInfoHash": "4c45536c67bce35c465d9d26fe82b5d17c1c42e6",
         "torrentSeeders": null,
@@ -1258,11 +1268,11 @@
         "id": 87,
         "name": "Hatem Farid - Taraweeh 1431",
         "arabicName": null,
-        "relativePath": "hatem_farid\u002Ftaraweeh1431\u002F",
+        "relativePath": "hatem_farid/taraweeh1431/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": null,
-        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1431 A.H. (2010 A.D.).  This recitation comes from \u003Ca href=\\\"http:\u002F\u002Fhatemfarid.com\\\"\u003Ehatemfarid.com\u003C\u002Fa\u003E.",
+        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1431 A.H. (2010 A.D.).  This recitation comes from <a href=\\\"http://hatemfarid.com\\\">hatemfarid.com</a>.",
         "torrentFilename": "[Quran] Hatem Farid - Taraweeh 1431 [128Kbps].torrent",
         "torrentInfoHash": "49e21ad7252d77e5b861c2f2fddbc58b3576df85",
         "torrentSeeders": null,
@@ -1272,7 +1282,7 @@
         "id": 88,
         "name": "Mostafa Ismaeel",
         "arabicName": "مصطفى إسماعيل",
-        "relativePath": "mostafa_ismaeel\u002F",
+        "relativePath": "mostafa_ismaeel/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1286,11 +1296,11 @@
         "id": 90,
         "name": "Muhammad Sulaiman Patel",
         "arabicName": null,
-        "relativePath": "muhammad_patel\u002F",
+        "relativePath": "muhammad_patel/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "This is the recitation of Sheikh Muhammad Sulaiman Patel, the Imam of \u003Ca href=\\\"http:\u002F\u002Fmasjideumar.co.nz\\\"\u003EMasjid e Umar\u003C\u002Fa\u003E in Auckland, New Zealand.  The mp3 files come from their website.",
+        "description": "This is the recitation of Sheikh Muhammad Sulaiman Patel, the Imam of <a href=\\\"http://masjideumar.co.nz\\\">Masjid e Umar</a> in Auckland, New Zealand.  The mp3 files come from their website.",
         "torrentFilename": "[Quran] Muhammad Sulaiman Patel [128Kbps - 256Kbps].torrent",
         "torrentInfoHash": "c73c4f95775380348d232fac0f0d3c8cfeb2b17a",
         "torrentSeeders": null,
@@ -1300,7 +1310,7 @@
         "id": 91,
         "name": "Mohammad Al-Tablawi",
         "arabicName": "محمد الطبلاوي",
-        "relativePath": "mohammad_altablawi\u002F",
+        "relativePath": "mohammad_altablawi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1314,7 +1324,7 @@
         "id": 92,
         "name": "Mohammad Ismaeel Al-Muqaddim",
         "arabicName": null,
-        "relativePath": "mohammad_ismaeel_almuqaddim\u002F",
+        "relativePath": "mohammad_ismaeel_almuqaddim/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1328,11 +1338,11 @@
         "id": 93,
         "name": "Imad Zuhair Hafez",
         "arabicName": "عماد زهير حافظ",
-        "relativePath": "imad_zuhair_hafez\u002F",
+        "relativePath": "imad_zuhair_hafez/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Thanks to the brothers at \u003Ca href=\\\"http:\u002F\u002Fassabile.com\\\"\u003EAl-Sabeel\u003C\u002Fa\u003E for this recitation.",
+        "description": "Thanks to the brothers at <a href=\\\"http://assabile.com\\\">Al-Sabeel</a> for this recitation.",
         "torrentFilename": "[Quran] Imad Zuhair Hafez [83Kbps - 92Kbps].torrent",
         "torrentInfoHash": "c679821d7597bd22a6c2b6a2378f31fcd64666ac",
         "torrentSeeders": null,
@@ -1342,11 +1352,11 @@
         "id": 94,
         "name": "Makkah Taraweeh 1432",
         "arabicName": "تراويح مكة",
-        "relativePath": "makkah_1432\u002F",
+        "relativePath": "makkah_1432/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1432 H.\u002F2011 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fwww.haramainrecordings.com\\\"\u003Eharamainrecordings.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1432 H./2011 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, and <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>.  Special thanks to <a href=\\\"http://www.haramainrecordings.com\\\">haramainrecordings.com</a> for this recitation.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1432 [128Kbps].torrent",
         "torrentInfoHash": "aa0ac69aafa9cc350cd6268a196796339c343ca6",
         "torrentSeeders": null,
@@ -1356,11 +1366,11 @@
         "id": 95,
         "name": "Mishari al-`Afasy - Taraweeh 1430",
         "arabicName": "مشاري بن راشد العفاسي",
-        "relativePath": "mishaari_california\u002F",
+        "relativePath": "mishaari_california/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": null,
-        "description": "This is the recording of Sheikh Mishari Rashid from Salat al-Taraweeh in the year of 1430 H.\u002F2009 A.D.  It was recorded in Irvine, California during the sheikh's visit.",
+        "description": "This is the recording of Sheikh Mishari Rashid from Salat al-Taraweeh in the year of 1430 H./2009 A.D.  It was recorded in Irvine, California during the sheikh's visit.",
         "torrentFilename": "[Quran] Mishari al-`Afasy - Taraweeh 1430 [128Kbps].torrent",
         "torrentInfoHash": "417d603b8ad38542c12d557f81a1e1562be9f4f2",
         "torrentSeeders": null,
@@ -1370,11 +1380,11 @@
         "id": 96,
         "name": "Hatem Farid - Taraweeh 1433",
         "arabicName": "حاتم فريد",
-        "relativePath": "hatem_farid\u002Ftaraweeh1433\u002F",
+        "relativePath": "hatem_farid/taraweeh1433/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": null,
-        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1433 A.H. (2012 A.D.).  This recitation comes from \u003Ca href=\\\"http:\u002F\u002Fhatemfarid.com\\\"\u003Ehatemfarid.com\u003C\u002Fa\u003E.",
+        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1433 A.H. (2012 A.D.).  This recitation comes from <a href=\\\"http://hatemfarid.com\\\">hatemfarid.com</a>.",
         "torrentFilename": "[Quran] Hatem Farid - Taraweeh 1433 [128Kbps].torrent",
         "torrentInfoHash": "16ef192baf58bcb164ec51e358c0335f05172983",
         "torrentSeeders": null,
@@ -1384,7 +1394,7 @@
         "id": 97,
         "name": "Yasser ad-Dussary",
         "arabicName": null,
-        "relativePath": "yasser_ad-dussary\u002F",
+        "relativePath": "yasser_ad-dussary/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1398,11 +1408,11 @@
         "id": 98,
         "name": "Makkah Taraweeh 1433",
         "arabicName": "تراويح مكة",
-        "relativePath": "makkah_1433\u002F",
+        "relativePath": "makkah_1433/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1433 H.\u002F2012 A.D.  Contains 4 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fwww.shuraym.com\\\"\u003Eshuraym.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1433 H./2012 A.D.  Contains 4 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, and <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>.  Special thanks to <a href=\\\"http://www.shuraym.com\\\">shuraym.com</a> for this recitation.",
         "torrentFilename": "[Quran] Makkah Taraweeh 1433 [256Kbps].torrent",
         "torrentInfoHash": "0f8e896802d0f6aecc5adabc4e6a3fd32ecf70c8",
         "torrentSeeders": null,
@@ -1412,11 +1422,11 @@
         "id": 99,
         "name": "Madinah Taraweeh 1429",
         "arabicName": null,
-        "relativePath": "madinah_1429\u002F",
+        "relativePath": "madinah_1429/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1429 H.\u002F2008 A.D.  Recited by 4 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, and Hussain Aal ash-Shaykh.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1429 H./2008 A.D.  Recited by 4 Imams: <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, and Hussain Aal ash-Shaykh.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1429 [48Kbps].torrent",
         "torrentInfoHash": "7d5b9cd72ea0c7d1d2791435d30086a578801084",
         "torrentSeeders": null,
@@ -1426,11 +1436,11 @@
         "id": 100,
         "name": "Madinah Taraweeh 1430",
         "arabicName": null,
-        "relativePath": "madinah_1430\u002F",
+        "relativePath": "madinah_1430/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1430 H.\u002F2009 A.D.  Recited by 5 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F13\\\"\u003ESaad al-Ghamdi\u003C\u002Fa\u003E, and Hussain Aal ash-Shaykh.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1430 H./2009 A.D.  Recited by 5 Imams: <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, <a href=\\\"http://quranicaudio.com/quran/13\\\">Saad al-Ghamdi</a>, and Hussain Aal ash-Shaykh.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1430 [48Kbps].torrent",
         "torrentInfoHash": "315fc73bedda5606694e18037e5cfc40be4ebc18",
         "torrentSeeders": null,
@@ -1440,11 +1450,11 @@
         "id": 101,
         "name": "Madinah Taraweeh 1432",
         "arabicName": null,
-        "relativePath": "madinah_1432\u002F",
+        "relativePath": "madinah_1432/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1432 H.\u002F2011 A.D.  Recited by 5 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Imaad Hafidh, and Hussain Aal ash-Shaykh.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1432 H./2011 A.D.  Recited by 5 Imams: <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Imaad Hafidh, and Hussain Aal ash-Shaykh.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1432 [48Kbps].torrent",
         "torrentInfoHash": "515f1085594720442527971b023fcbfc24cb4dc4",
         "torrentSeeders": null,
@@ -1454,11 +1464,11 @@
         "id": 102,
         "name": "Madinah Taraweeh 1433",
         "arabicName": null,
-        "relativePath": "madinah_1433\u002F",
+        "relativePath": "madinah_1433/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1433 H.\u002F2012 A.D.  Recited by 4 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Khalid al-Ghamdi, and Hussain Aal ash-Shaykh.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1433 H./2012 A.D.  Recited by 4 Imams: <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Khalid al-Ghamdi, and Hussain Aal ash-Shaykh.",
         "torrentFilename": "[Quran] Madinah Taraweeh 1433 [48Kbps].torrent",
         "torrentInfoHash": "986e0739f2592aa4cab3185415ad8969fa78535b",
         "torrentSeeders": null,
@@ -1468,7 +1478,7 @@
         "id": 103,
         "name": "Ibrahim Al Akhdar",
         "arabicName": null,
-        "relativePath": "ibrahim_al_akhdar\u002F",
+        "relativePath": "ibrahim_al_akhdar/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1482,11 +1492,11 @@
         "id": 104,
         "name": "Nasser Al Qatami",
         "arabicName": null,
-        "relativePath": "nasser_bin_ali_alqatami\u002F",
+        "relativePath": "nasser_bin_ali_alqatami/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "This is the recitation for Sheikh Nasser Al Qatami. The files for the 30th juz' come from \u003Ca href=\\\"http:\u002F\u002Fmp3quran.net\\\"\u003Emp3quran.net\u003C\u002Fa\u003E.",
+        "description": "This is the recitation for Sheikh Nasser Al Qatami. The files for the 30th juz' come from <a href=\\\"http://mp3quran.net\\\">mp3quran.net</a>.",
         "torrentFilename": "[Quran] Nasser Al Qatami [96Kbps - 128Kbps].torrent",
         "torrentInfoHash": "f7b841dccefc618e71c25accfa30cf74314bd5f1",
         "torrentSeeders": null,
@@ -1496,7 +1506,7 @@
         "id": 105,
         "name": "Khalid Al Ghamdi",
         "arabicName": null,
-        "relativePath": "khalid_alghamdi\u002F",
+        "relativePath": "khalid_alghamdi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1510,11 +1520,11 @@
         "id": 106,
         "name": "AbdulKareem Al Hazmi",
         "arabicName": null,
-        "relativePath": "abdulkareem_al_hazmi\u002F",
+        "relativePath": "abdulkareem_al_hazmi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "This is the 1433\u002F1434H Live Taraweeh recitation of AbdulKareem Al Hazmi (from Makkah) recorded at the King Fahd Mosque \u002F Islamic Foundation of Shaikh Ibn Taymiyah, Culver City CA.",
+        "description": "This is the 1433/1434H Live Taraweeh recitation of AbdulKareem Al Hazmi (from Makkah) recorded at the King Fahd Mosque / Islamic Foundation of Shaikh Ibn Taymiyah, Culver City CA.",
         "torrentFilename": "[Quran] AbdulKareem Al Hazmi [256Kbps].torrent",
         "torrentInfoHash": "924fe16d194109f238f9e2c3f9ae3c879394dfab",
         "torrentSeeders": null,
@@ -1524,7 +1534,7 @@
         "id": 107,
         "name": "Muhammad Ayyoob [Taraweeh]",
         "arabicName": null,
-        "relativePath": "muhammad_ayyoob_hq\u002F",
+        "relativePath": "muhammad_ayyoob_hq/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1538,11 +1548,11 @@
         "id": 108,
         "name": "Abdul-Mun'im Abdul-Mubdi'",
         "arabicName": null,
-        "relativePath": "abdulmun3im_abdulmubdi2\u002F",
+        "relativePath": "abdulmun3im_abdulmubdi2/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "The original version of this recitation comes from the brothers at \u003Ca href=\\\"http:\u002F\u002Fel-moslem.com\\\"\u003Eel-moslem.com\u003C\u002Fa\u003E.",
+        "description": "The original version of this recitation comes from the brothers at <a href=\\\"http://el-moslem.com\\\">el-moslem.com</a>.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1552,7 +1562,7 @@
         "id": 109,
         "name": "Abdur-Rashid Sufi",
         "arabicName": null,
-        "relativePath": "abdurrashid_sufi\u002F",
+        "relativePath": "abdurrashid_sufi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1566,7 +1576,7 @@
         "id": 110,
         "name": "Abdur-Rashid Sufi [Abi al-Haarith an al-Kasaa'ee]",
         "arabicName": null,
-        "relativePath": "abdurrashid_sufi_abi_al7arith\u002F",
+        "relativePath": "abdurrashid_sufi_abi_al7arith/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
@@ -1580,7 +1590,7 @@
         "id": 111,
         "name": "Abdur-Rashid Sufi [ad-Doori an Abi Amr]",
         "arabicName": null,
-        "relativePath": "abdurrashid_sufi_doori\u002F",
+        "relativePath": "abdurrashid_sufi_doori/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
@@ -1594,7 +1604,7 @@
         "id": 112,
         "name": "Abdur-Rashid Sufi [Shu'bah an Asim]",
         "arabicName": null,
-        "relativePath": "abdurrashid_sufi_shu3ba\u002F",
+        "relativePath": "abdurrashid_sufi_shu3ba/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
@@ -1608,11 +1618,11 @@
         "id": 113,
         "name": "Ahmad al-Huthaify",
         "arabicName": null,
-        "relativePath": "ahmad_alhuthayfi\u002F",
+        "relativePath": "ahmad_alhuthayfi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to the brothers at \u003Ca href=\\\"http:\u002F\u002Fwww.mazameer.com\u002Fcat-29.html\\\"\u003Emazameer\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to the brothers at <a href=\\\"http://www.mazameer.com/cat-29.html\\\">mazameer</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1622,11 +1632,11 @@
         "id": 114,
         "name": "Ali al-Huthaify [Qaloon]",
         "arabicName": null,
-        "relativePath": "huthayfi_qaloon\u002F",
+        "relativePath": "huthayfi_qaloon/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
-        "description": "The original version of this recitation comes from the brothers at \u003Ca href=\\\"http:\u002F\u002Fislamway.com\\\"\u003Eislamway.com\u003C\u002Fa\u003E.",
+        "description": "The original version of this recitation comes from the brothers at <a href=\\\"http://islamway.com\\\">islamway.com</a>.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1636,7 +1646,7 @@
         "id": 115,
         "name": "Abu Bakr al-Shatri [Taraweeh]",
         "arabicName": null,
-        "relativePath": "abu_bakr_ash-shatri_tarawee7\u002F",
+        "relativePath": "abu_bakr_ash-shatri_tarawee7/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1650,7 +1660,7 @@
         "id": 116,
         "name": "Idrees Abkar",
         "arabicName": null,
-        "relativePath": "idrees_akbar\u002F",
+        "relativePath": "idrees_akbar/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1664,7 +1674,7 @@
         "id": 117,
         "name": "Bandar Baleela",
         "arabicName": null,
-        "relativePath": "bandar_baleela\u002F",
+        "relativePath": "bandar_baleela/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -1678,7 +1688,7 @@
         "id": 118,
         "name": "Masjid Quba Taraweeh 1434",
         "arabicName": null,
-        "relativePath": "masjid_quba_1434\u002F",
+        "relativePath": "masjid_quba_1434/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1692,7 +1702,7 @@
         "id": 119,
         "name": "Muhammad Khaleel",
         "arabicName": null,
-        "relativePath": "muhammad_khaleel\u002F",
+        "relativePath": "muhammad_khaleel/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1706,11 +1716,11 @@
         "id": 120,
         "name": "Makkah Taraweeh 1434",
         "arabicName": null,
-        "relativePath": "makkah_1434\u002F",
+        "relativePath": "makkah_1434/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1434 H.\u002F2013 A.D.  Contains 6 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F105\\\"\u003EKhalid al Ghamdi\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fwww.shuraym.com\\\"\u003Eshuraym.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1434 H./2013 A.D.  Contains 6 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/105\\\">Khalid al Ghamdi</a>, and <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>.  Special thanks to <a href=\\\"http://www.shuraym.com\\\">shuraym.com</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1720,7 +1730,7 @@
         "id": 121,
         "name": "Muhammad al-Mehysni - Taraweeh 1435",
         "arabicName": null,
-        "relativePath": "muhaisny_1435\u002F",
+        "relativePath": "muhaisny_1435/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": null,
@@ -1734,11 +1744,11 @@
         "id": 122,
         "name": "Mahmoud Khaleel Al-Husary",
         "arabicName": null,
-        "relativePath": "mahmood_khaleel_al-husaree_iza3a\u002F",
+        "relativePath": "mahmood_khaleel_al-husaree_iza3a/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "This is the broadcast version of Sheikh Al-Husary's recitation. It is one of his earliest recitations, aired on the Egyptain Quran radio station. Special thanks to \u003Ca href=\\\"http:\u002F\u002Fislamway.com\\\"\u003Eislamway\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the broadcast version of Sheikh Al-Husary's recitation. It is one of his earliest recitations, aired on the Egyptain Quran radio station. Special thanks to <a href=\\\"http://islamway.com\\\">islamway</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1748,11 +1758,11 @@
         "id": 123,
         "name": "Madinah Taraweeh 1435",
         "arabicName": null,
-        "relativePath": "madinah_1435\u002F",
+        "relativePath": "madinah_1435/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1435 H.\u002F2014 A.D.  Recited by 6 Imams: \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Abdullah al-Bu'ayjan, Ahmad Hameed, and Husayn aal ash-Shaykh. Special thanks to \u003Ca href=\\\"http:\u002F\u002Fwww.mazameer.com\\\"\u003EMazameer\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1435 H./2014 A.D.  Recited by 6 Imams: <a href=\\\"http://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify</a>, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Abdullah al-Bu'ayjan, Ahmad Hameed, and Husayn aal ash-Shaykh. Special thanks to <a href=\\\"http://www.mazameer.com\\\">Mazameer</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1762,7 +1772,7 @@
         "id": 124,
         "name": "Abdullah Matroud",
         "arabicName": null,
-        "relativePath": "abdullah_matroud\u002F",
+        "relativePath": "abdullah_matroud/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1776,7 +1786,7 @@
         "id": 125,
         "name": "AbdulWadood Haneef",
         "arabicName": null,
-        "relativePath": "abdul_wadood_haneef_rare\u002F",
+        "relativePath": "abdul_wadood_haneef_rare/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1790,11 +1800,11 @@
         "id": 126,
         "name": "Ahmad Nauina",
         "arabicName": null,
-        "relativePath": "ahmad_nauina\u002F",
+        "relativePath": "ahmad_nauina/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to \u003Ca href=\\\"http:\u002F\u002Fmp3quran.net\\\"\u003Emp3quran\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to <a href=\\\"http://mp3quran.net\\\">mp3quran</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1804,11 +1814,11 @@
         "id": 127,
         "name": "Akram Al-Alaqmi",
         "arabicName": null,
-        "relativePath": "akram_al_alaqmi\u002F",
+        "relativePath": "akram_al_alaqmi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to \u003Ca href=\\\"http:\u002F\u002Fmp3quran.net\\\"\u003Emp3quran\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to <a href=\\\"http://mp3quran.net\\\">mp3quran</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1818,11 +1828,11 @@
         "id": 128,
         "name": "Ali Hajjaj Alsouasi",
         "arabicName": null,
-        "relativePath": "ali_hajjaj_alsouasi\u002F",
+        "relativePath": "ali_hajjaj_alsouasi/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to \u003Ca href=\\\"http:\u002F\u002Fmp3quran.net\\\"\u003Emp3quran\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to <a href=\\\"http://mp3quran.net\\\">mp3quran</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1832,11 +1842,11 @@
         "id": 129,
         "name": "Mahmood Ali Al-Bana",
         "arabicName": null,
-        "relativePath": "mahmood_ali_albana\u002F",
+        "relativePath": "mahmood_ali_albana/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "Special thanks to \u003Ca href=\\\"https:\u002F\u002Fwww.facebook.com\u002FIslamictape\\\"\u003EIslamicTape\u003C\u002Fa\u003E for this recitation.",
+        "description": "Special thanks to <a href=\\\"https://www.facebook.com/Islamictape\\\">IslamicTape</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1846,7 +1856,7 @@
         "id": 130,
         "name": "Wadee Hammadi Al Yamani",
         "arabicName": null,
-        "relativePath": "wadee_hammadi_al-yamani\u002F",
+        "relativePath": "wadee_hammadi_al-yamani/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1860,11 +1870,11 @@
         "id": 131,
         "name": "Makkah Taraweeh 1435",
         "arabicName": null,
-        "relativePath": "makkah_1435\u002F",
+        "relativePath": "makkah_1435/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1435 H.\u002F2014 A.D. Contains 6 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F105\\\"\u003EKhalid al Ghamdi\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E.  This recording isn't fully edited.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1435 H./2014 A.D. Contains 6 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/105\\\">Khalid al Ghamdi</a>, and <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>.  This recording isn't fully edited.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1874,11 +1884,11 @@
         "id": 132,
         "name": "Makkah Taraweeh 1436",
         "arabicName": null,
-        "relativePath": "makkah_1436\u002F",
+        "relativePath": "makkah_1436/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1436 H.\u002F2015 A.D. Contains 8 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F105\\\"\u003EKhalid al Ghamdi\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E, Hassan Bukhari, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F97\\\"\u003EYasser ad-Dussary\u003C\u002Fa\u003E.  This recording isn't fully edited.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1436 H./2015 A.D. Contains 8 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/105\\\">Khalid al Ghamdi</a>, <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>, Hassan Bukhari, and <a href=\\\"http://quranicaudio.com/quran/97\\\">Yasser ad-Dussary</a>.  This recording isn't fully edited.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1888,11 +1898,11 @@
         "id": 133,
         "name": "Makkah Taraweeh 1437",
         "arabicName": null,
-        "relativePath": "makkah_1437\u002F",
+        "relativePath": "makkah_1437/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1437 H.\u002F2016 A.D. Contains 8 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F105\\\"\u003EKhalid al Ghamdi\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E, Salaah Ba'Uthmaan, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F97\\\"\u003EYasser ad-Dussary\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fquran-jed.net\\\"\u003Equran-jed.net\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003EHaramain Recordings\u003C\u002Fa\u003E, and brother Wizra for this recitation.",
+        "description": "This is Live Recitation from Masjidul-Haram in Al-Makkah Al-Mukarramah, 1437 H./2016 A.D. Contains 8 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/105\\\">Khalid al Ghamdi</a>, <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>, Salaah Ba'Uthmaan, and <a href=\\\"http://quranicaudio.com/quran/97\\\">Yasser ad-Dussary</a>.  Special thanks to <a href=\\\"http://quran-jed.net\\\">quran-jed.net</a>, <a href=\\\"http://haramain.info\\\">Haramain Recordings</a>, and brother Wizra for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": null,
@@ -1902,7 +1912,7 @@
         "id": 134,
         "name": "Fatih Seferagic",
         "arabicName": null,
-        "relativePath": "fatih_seferagic\u002F",
+        "relativePath": "fatih_seferagic/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1916,7 +1926,7 @@
         "id": 135,
         "name": "Asim Abdul Aleem",
         "arabicName": null,
-        "relativePath": "asim_abdulaleem\u002F",
+        "relativePath": "asim_abdulaleem/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1930,7 +1940,7 @@
         "id": 136,
         "name": "Abdallah Abdal",
         "arabicName": null,
-        "relativePath": "abdallah_abdal\u002F",
+        "relativePath": "abdallah_abdal/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -1944,11 +1954,11 @@
         "id": 137,
         "name": "Abdur-Rashid Sufi [Soosi, 2020]",
         "arabicName": "عبد الرشيد صوفي - السوسي",
-        "relativePath": "abdurrashid_sufi_soosi_2020\u002F",
+        "relativePath": "abdurrashid_sufi_soosi_2020/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
-        "description": "The original version of this recitation comes from the brothers at \u003Ca href=\\\"https:\u002F\u002Fnaqaa.studio\\\"\u003ENaqaa Studio\u003C\u002Fa\u003E.",
+        "description": "The original version of this recitation comes from the brothers at <a href=\\\"https://naqaa.studio\\\">Naqaa Studio</a>.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -1958,11 +1968,11 @@
         "id": 138,
         "name": "Adel Kalbani",
         "arabicName": null,
-        "relativePath": "adel_kalbani_1437\u002F",
+        "relativePath": "adel_kalbani_1437/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
-        "description": "This is the taraweeh recitation for sheikh Adel Kalbani from 1437 H. \u002F 2016 A.D.",
+        "description": "This is the taraweeh recitation for sheikh Adel Kalbani from 1437 H. / 2016 A.D.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -1972,11 +1982,11 @@
         "id": 139,
         "name": "Hatem Farid - Taraweeh 1430",
         "arabicName": "حاتم فريد",
-        "relativePath": "hatem_farid\u002Ftaraweeh1430\u002F",
+        "relativePath": "hatem_farid/taraweeh1430/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
-        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1430 A.H. (2009 A.D.).  This recitation comes from \u003Ca href=\\\"https:\u002F\u002Fsoundcloud.com\u002Fsheikhhatemfarid\u002F\\\"\u003ESheikh Hatem Farid on Soundcloud\u003C\u002Fa\u003E.",
+        "description": "This is the recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1430 A.H. (2009 A.D.).  This recitation comes from <a href=\\\"https://soundcloud.com/sheikhhatemfarid/\\\">Sheikh Hatem Farid on Soundcloud</a>.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -1986,11 +1996,11 @@
         "id": 140,
         "name": "Hatem Farid - Taraweeh 1434",
         "arabicName": "حاتم فريد",
-        "relativePath": "hatem_farid\u002Ftaraweeh1434\u002F",
+        "relativePath": "hatem_farid/taraweeh1434/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
-        "description": "This is a partial recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1434 A.H. (2013 A.D.).  This recitation comes from \u003Ca href=\\\"https:\u002F\u002Fsoundcloud.com\u002Fsheikhhatemfarid\u002F\\\"\u003ESheikh Hatem Farid on Soundcloud\u003C\u002Fa\u003E.",
+        "description": "This is a partial recitation for Sheikh Hatem Farid, from Salat al-Taraweeh, 1434 A.H. (2013 A.D.).  This recitation comes from <a href=\\\"https://soundcloud.com/sheikhhatemfarid/\\\">Sheikh Hatem Farid on Soundcloud</a>.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2000,7 +2010,7 @@
         "id": 141,
         "name": "Mahmoud Khaleel Al-Husary (Muallam)",
         "arabicName": "محمود خليل الحصري (معلم)",
-        "relativePath": "husary_muallim\u002F",
+        "relativePath": "husary_muallim/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -2014,7 +2024,7 @@
         "id": 142,
         "name": "Mahmoud Khaleel Al-Husary (with Children)",
         "arabicName": "محمود خليل الحصري (المعلم للاطفال)",
-        "relativePath": "husary_muallim_kids_repeat\u002F",
+        "relativePath": "husary_muallim_kids_repeat/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -2028,11 +2038,11 @@
         "id": 143,
         "name": "Madinah Taraweeh 1434",
         "arabicName": "تراويح المدينة ١٤٣٤",
-        "relativePath": "madinah_1434\u002F",
+        "relativePath": "madinah_1434/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1434 H.\u002F2013 A.D.  Recited by 6 Imams: \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Ahmed ibn Talib Hameed, Abdullah Buayjan, and Hussain Aal ash-Shaykh. Special thanks to the team at \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003Eharamain.info\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1434 H./2013 A.D.  Recited by 6 Imams: <a href=\\\"https://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Ahmed ibn Talib Hameed, Abdullah Buayjan, and Hussain Aal ash-Shaykh. Special thanks to the team at <a href=\\\"http://haramain.info\\\">haramain.info</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2042,11 +2052,11 @@
         "id": 144,
         "name": "Madinah Taraweeh 1436",
         "arabicName": "تراويح المدينة ١٤٣٦",
-        "relativePath": "madinah_1436\u002F",
+        "relativePath": "madinah_1436/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1436 H.\u002F2015 A.D.  Recited by 8 Imams: \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Ahmed ibn Talib Hameed, Abdullah Buayjan, \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F107\\\"\u003EMuhammad Ayyoob\u003C\u002Fa\u003E, Khalid Muhanna, and Hussain Aal ash-Shaykh. Special thanks to the team at \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003Eharamain.info\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1436 H./2015 A.D.  Recited by 8 Imams: <a href=\\\"https://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Ahmed ibn Talib Hameed, Abdullah Buayjan, <a href=\\\"https://quranicaudio.com/quran/107\\\">Muhammad Ayyoob</a>, Khalid Muhanna, and Hussain Aal ash-Shaykh. Special thanks to the team at <a href=\\\"http://haramain.info\\\">haramain.info</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2056,11 +2066,11 @@
         "id": 145,
         "name": "Madinah Taraweeh 1437",
         "arabicName": "تراويح المدينة ١٤٣٧",
-        "relativePath": "madinah_1437\u002F",
+        "relativePath": "madinah_1437/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1437 H.\u002F2016 A.D.  Recited by 8 Imams: \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F8\\\"\u003EAli Abdur-Rahman al-Huthaify, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Ahmed ibn Talib Hameed, Abdullah Buayjan, Muhammad Khaleel al Qaree, Khalid Muhanna, and Hussain Aal ash-Shaykh. Special thanks to the team at \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003Eharamain.info\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1437 H./2016 A.D.  Recited by 8 Imams: <a href=\\\"https://quranicaudio.com/quran/8\\\">Ali Abdur-Rahman al-Huthaify, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Ahmed ibn Talib Hameed, Abdullah Buayjan, Muhammad Khaleel al Qaree, Khalid Muhanna, and Hussain Aal ash-Shaykh. Special thanks to the team at <a href=\\\"http://haramain.info\\\">haramain.info</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2070,11 +2080,11 @@
         "id": 146,
         "name": "Madinah Taraweeh 1439",
         "arabicName": "تراويح المدينة ١٤٣٩",
-        "relativePath": "madinah_1439\u002F",
+        "relativePath": "madinah_1439/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1439 H.\u002F2018 A.D.  Recited by 7 Imams: \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F113\\\"\u003EAhmed al-Huthaify, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Ahmed ibn Talib Hameed, Abdullah Buayjan, Mahmood Khaleel al Qaree, and Khalid Muhanna. Special thanks to the team at \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003Eharamain.info\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1439 H./2018 A.D.  Recited by 7 Imams: <a href=\\\"https://quranicaudio.com/quran/113\\\">Ahmed al-Huthaify, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Ahmed ibn Talib Hameed, Abdullah Buayjan, Mahmood Khaleel al Qaree, and Khalid Muhanna. Special thanks to the team at <a href=\\\"http://haramain.info\\\">haramain.info</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2084,11 +2094,11 @@
         "id": 147,
         "name": "Madinah Taraweeh 1440",
         "arabicName": "تراويح المدينة ١٤٤٠",
-        "relativePath": "madinah_1440\u002F",
+        "relativePath": "madinah_1440/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1440 H.\u002F2019 A.D.  Recited by 7 Imams: \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F113\\\"\u003EAhmed al-Huthaify, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Ahmed ibn Talib Hameed, Abdullah Buayjan, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003ESudais\u003C\u002Fa\u003E, and Khalid Muhanna. Special thanks to the team at \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003Eharamain.info\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1440 H./2019 A.D.  Recited by 7 Imams: <a href=\\\"https://quranicaudio.com/quran/113\\\">Ahmed al-Huthaify, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Ahmed ibn Talib Hameed, Abdullah Buayjan, <a href=\\\"http://quranicaudio.com/quran/7\\\">Sudais</a>, and Khalid Muhanna. Special thanks to the team at <a href=\\\"http://haramain.info\\\">haramain.info</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2098,11 +2108,11 @@
         "id": 148,
         "name": "Madinah Taraweeh 1441",
         "arabicName": "تراويح المدينة ١٤٤١",
-        "relativePath": "madinah_1441\u002F",
+        "relativePath": "madinah_1441/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1441 H.\u002F2020 A.D.  Recited by 6 Imams: \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F113\\\"\u003EAhmed al-Huthaify, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Ahmed ibn Talib Hameed, Abdullah Buayjan, and Khalid Muhanna. Special thanks to the team at \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003Eharamain.info\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1441 H./2020 A.D.  Recited by 6 Imams: <a href=\\\"https://quranicaudio.com/quran/113\\\">Ahmed al-Huthaify, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Ahmed ibn Talib Hameed, Abdullah Buayjan, and Khalid Muhanna. Special thanks to the team at <a href=\\\"http://haramain.info\\\">haramain.info</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2112,11 +2122,11 @@
         "id": 149,
         "name": "Madinah Taraweeh 1442",
         "arabicName": "تراويح المدينة ١٤٤١",
-        "relativePath": "madinah_1442\u002F",
+        "relativePath": "madinah_1442/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is the Live Recitation from Masjid al-Nabawi, 1442 H.\u002F2021 A.D.  Recited by 6 Imams: \u003Ca href=\\\"https:\u002F\u002Fquranicaudio.com\u002Fquran\u002F113\\\"\u003EAhmed al-Huthaify, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F11\\\"\u003EAbdulMuhsin al-Qasim\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F43\\\"\u003ESalah al-Budair\u003C\u002Fa\u003E, Ahmed ibn Talib Hameed, Abdullah Buayjan, and Khalid Muhanna. Special thanks to the team at \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003Eharamain.info\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is the Live Recitation from Masjid al-Nabawi, 1442 H./2021 A.D.  Recited by 6 Imams: <a href=\\\"https://quranicaudio.com/quran/113\\\">Ahmed al-Huthaify, <a href=\\\"http://quranicaudio.com/quran/11\\\">AbdulMuhsin al-Qasim</a>, <a href=\\\"http://quranicaudio.com/quran/43\\\">Salah al-Budair</a>, Ahmed ibn Talib Hameed, Abdullah Buayjan, and Khalid Muhanna. Special thanks to the team at <a href=\\\"http://haramain.info\\\">haramain.info</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2126,11 +2136,11 @@
         "id": 150,
         "name": "Makkah Taraweeh 1438",
         "arabicName": "تراويح مكة ١٤٣٨",
-        "relativePath": "makkah_1438\u002F",
+        "relativePath": "makkah_1438/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1438 H.\u002F2017 A.D. Contains 8 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F105\\\"\u003EKhalid al Ghamdi\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E, Salaah Ba'Uthmaan, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F97\\\"\u003EYasser ad-Dussary\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003EHaramain Recordings\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1438 H./2017 A.D. Contains 8 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/105\\\">Khalid al Ghamdi</a>, <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>, Salaah Ba'Uthmaan, and <a href=\\\"http://quranicaudio.com/quran/97\\\">Yasser ad-Dussary</a>.  Special thanks to <a href=\\\"http://haramain.info\\\">Haramain Recordings</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2140,11 +2150,11 @@
         "id": 151,
         "name": "Makkah Taraweeh 1439",
         "arabicName": "تراويح مكة ١٤٣٩",
-        "relativePath": "makkah_1439\u002F",
+        "relativePath": "makkah_1439/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1439 H.\u002F2018 A.D. Contains 7 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F105\\\"\u003EKhalid al Ghamdi\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F97\\\"\u003EYasser ad-Dussary\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003EHaramain Recordings\u003C\u002Fa\u003E and \u003Ca href=\\\"https:\u002F\u002Fwww.mazameer.com\\\"\u003Emazameer.com\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1439 H./2018 A.D. Contains 7 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/105\\\">Khalid al Ghamdi</a>, <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>, and <a href=\\\"http://quranicaudio.com/quran/97\\\">Yasser ad-Dussary</a>.  Special thanks to <a href=\\\"http://haramain.info\\\">Haramain Recordings</a> and <a href=\\\"https://www.mazameer.com\\\">mazameer.com</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2154,11 +2164,11 @@
         "id": 152,
         "name": "Makkah Taraweeh 1440",
         "arabicName": "تراويح مكة ١٤٤٠",
-        "relativePath": "makkah_1440\u002F",
+        "relativePath": "makkah_1440/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1440 H.\u002F2019 A.D. Contains 6 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F97\\\"\u003EYasser ad-Dussary\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003EHaramain Recordings\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1440 H./2019 A.D. Contains 6 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>, and <a href=\\\"http://quranicaudio.com/quran/97\\\">Yasser ad-Dussary</a>.  Special thanks to <a href=\\\"http://haramain.info\\\">Haramain Recordings</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2168,11 +2178,11 @@
         "id": 153,
         "name": "Makkah Taraweeh 1441",
         "arabicName": "تراويح مكة ١٤٤١",
-        "relativePath": "makkah_1441\u002F",
+        "relativePath": "makkah_1441/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1441 H.\u002F2020 A.D. Contains 6 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F97\\\"\u003EYasser ad-Dussary\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003EHaramain Recordings\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1441 H./2020 A.D. Contains 6 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>, and <a href=\\\"http://quranicaudio.com/quran/97\\\">Yasser ad-Dussary</a>.  Special thanks to <a href=\\\"http://haramain.info\\\">Haramain Recordings</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2182,11 +2192,11 @@
         "id": 154,
         "name": "Makkah Taraweeh 1442",
         "arabicName": "تراويح مكة ١٤٤٢",
-        "relativePath": "makkah_1442\u002F",
+        "relativePath": "makkah_1442/",
         "fileFormats": "mp3",
         "sectionId": 2,
         "home": true,
-        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1442 H.\u002F2021 A.D. Contains 6 Imams:  \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F4\\\"\u003ESa'ud al-Shuraym\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F51\\\"\u003EMaher al-Muaiqly\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F7\\\"\u003EAbdur-Rahman as-Sudays\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F1\\\"\u003EAbdullah Awwad al-Juhany\u003C\u002Fa\u003E, \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F117\\\"\u003EBandar Baleela\u003C\u002Fa\u003E, and \u003Ca href=\\\"http:\u002F\u002Fquranicaudio.com\u002Fquran\u002F97\\\"\u003EYasser ad-Dussary\u003C\u002Fa\u003E.  Special thanks to \u003Ca href=\\\"http:\u002F\u002Fharamain.info\\\"\u003EHaramain Recordings\u003C\u002Fa\u003E for this recitation.",
+        "description": "This is Live Recitation from Masjid ul-Haram in Al-Makkah Al-Mukarramah, 1442 H./2021 A.D. Contains 6 Imams:  <a href=\\\"http://quranicaudio.com/quran/4\\\">Sa'ud al-Shuraym</a>, <a href=\\\"http://quranicaudio.com/quran/51\\\">Maher al-Muaiqly</a>, <a href=\\\"http://quranicaudio.com/quran/7\\\">Abdur-Rahman as-Sudays</a>, <a href=\\\"http://quranicaudio.com/quran/1\\\">Abdullah Awwad al-Juhany</a>, <a href=\\\"http://quranicaudio.com/quran/117\\\">Bandar Baleela</a>, and <a href=\\\"http://quranicaudio.com/quran/97\\\">Yasser ad-Dussary</a>.  Special thanks to <a href=\\\"http://haramain.info\\\">Haramain Recordings</a> for this recitation.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2196,11 +2206,11 @@
         "id": 155,
         "name": "Noreen Siddiq [ad-Doori an Abi Amr]",
         "arabicName": "الشيخ نورين محمد صديق رواية الدوري عن ابي عامر",
-        "relativePath": "noreen_siddiq\u002F",
+        "relativePath": "noreen_siddiq/",
         "fileFormats": "mp3",
         "sectionId": 3,
         "home": true,
-        "description": "This recitation of sheikh Noreen Siddiq comes from the team at \u003Ca href=\\\"https:\u002F\u002Fnaqaa.studio\\\"\u003ENaqaa Studio\u003C\u002Fa\u003E.",
+        "description": "This recitation of sheikh Noreen Siddiq comes from the team at <a href=\\\"https://naqaa.studio\\\">Naqaa Studio</a>.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2210,7 +2220,7 @@
         "id": 156,
         "name": "Sa`ud ash-Shuraym [older recitation]",
         "arabicName": "سعود الشريم",
-        "relativePath": "sa3ood_al-shuraym\u002Folder\u002F",
+        "relativePath": "sa3ood_al-shuraym/older/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -2224,7 +2234,7 @@
         "id": 157,
         "name": "Sudais and Shuraym [older recitation]",
         "arabicName": "سعود الشريم",
-        "relativePath": "sodais_and_shuraim\u002Folder\u002F",
+        "relativePath": "sodais_and_shuraim/older/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": false,
@@ -2238,7 +2248,7 @@
         "id": 158,
         "name": "Abdullah Ali Jabir",
         "arabicName": "عبدالله علي جابر",
-        "relativePath": "ali_jaber\u002F",
+        "relativePath": "ali_jaber/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -2252,11 +2262,11 @@
         "id": 159,
         "name": "Maher al-Muaiqly",
         "arabicName": "ماهر المعيقلى",
-        "relativePath": "maher_almu3aiqly\u002Fyear1440\u002F",
+        "relativePath": "maher_almu3aiqly/year1440/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
-        "description": "This is the recitation of Sheikh Maher al-Mu3aiqaly, from the year 1440 H \u002F 2019 A.D.",
+        "description": "This is the recitation of Sheikh Maher al-Mu3aiqaly, from the year 1440 H / 2019 A.D.",
         "torrentFilename": null,
         "torrentInfoHash": null,
         "torrentSeeders": 0,
@@ -2266,7 +2276,7 @@
         "id": 160,
         "name": "Bandar Baleela",
         "arabicName": null,
-        "relativePath": "bandar_baleela\u002Fcomplete\u002F",
+        "relativePath": "bandar_baleela/complete/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -2280,7 +2290,7 @@
         "id": 161,
         "name": "Khalifah Taniji",
         "arabicName": null,
-        "relativePath": "khalifah_taniji\u002F",
+        "relativePath": "khalifah_taniji/",
         "fileFormats": "mp3",
         "sectionId": 1,
         "home": true,
@@ -2298,10 +2308,22 @@
     "loaded": true,
     "current": null,
     "entities": {
-      "1": { "id": 1, "name": "Recitations" },
-      "2": { "id": 2, "name": "Recitations from Haramain Taraweeh" },
-      "3": { "id": 3, "name": "Non-Hafs Recitations" },
-      "4": { "id": 4, "name": "Recitations with Translations" }
+      "1": {
+        "id": 1,
+        "name": "Recitations"
+      },
+      "2": {
+        "id": 2,
+        "name": "Recitations from Haramain Taraweeh"
+      },
+      "3": {
+        "id": 3,
+        "name": "Non-Hafs Recitations"
+      },
+      "4": {
+        "id": 4,
+        "name": "Recitations with Translations"
+      }
     },
     "loading": true
   },
@@ -2321,7 +2343,10 @@
           "english": "The Opener",
           "arabic": "الفاتحة"
         },
-        "revelation": { "place": "makkah", "order": 5 }
+        "revelation": {
+          "place": "makkah",
+          "order": 5
+        }
       },
       "2": {
         "id": 2,
@@ -2334,7 +2359,10 @@
           "english": "The Cow",
           "arabic": "البقرة"
         },
-        "revelation": { "place": "madinah", "order": 87 }
+        "revelation": {
+          "place": "madinah",
+          "order": 87
+        }
       },
       "3": {
         "id": 3,
@@ -2347,7 +2375,10 @@
           "english": "Family of Imran",
           "arabic": "آل عمران"
         },
-        "revelation": { "place": "madinah", "order": 89 }
+        "revelation": {
+          "place": "madinah",
+          "order": 89
+        }
       },
       "4": {
         "id": 4,
@@ -2360,7 +2391,10 @@
           "english": "The Women",
           "arabic": "النساء"
         },
-        "revelation": { "place": "madinah", "order": 92 }
+        "revelation": {
+          "place": "madinah",
+          "order": 92
+        }
       },
       "5": {
         "id": 5,
@@ -2373,7 +2407,10 @@
           "english": "The Table Spread",
           "arabic": "المائدة"
         },
-        "revelation": { "place": "madinah", "order": 112 }
+        "revelation": {
+          "place": "madinah",
+          "order": 112
+        }
       },
       "6": {
         "id": 6,
@@ -2386,7 +2423,10 @@
           "english": "The Cattle",
           "arabic": "الأنعام"
         },
-        "revelation": { "place": "makkah", "order": 55 }
+        "revelation": {
+          "place": "makkah",
+          "order": 55
+        }
       },
       "7": {
         "id": 7,
@@ -2399,7 +2439,10 @@
           "english": "The Heights",
           "arabic": "الأعراف"
         },
-        "revelation": { "place": "makkah", "order": 39 }
+        "revelation": {
+          "place": "makkah",
+          "order": 39
+        }
       },
       "8": {
         "id": 8,
@@ -2412,7 +2455,10 @@
           "english": "The Spoils of War",
           "arabic": "الأنفال"
         },
-        "revelation": { "place": "madinah", "order": 88 }
+        "revelation": {
+          "place": "madinah",
+          "order": 88
+        }
       },
       "9": {
         "id": 9,
@@ -2425,7 +2471,10 @@
           "english": "The Repentance",
           "arabic": "التوبة"
         },
-        "revelation": { "place": "madinah", "order": 113 }
+        "revelation": {
+          "place": "madinah",
+          "order": 113
+        }
       },
       "10": {
         "id": 10,
@@ -2438,7 +2487,10 @@
           "english": "Jonah",
           "arabic": "يونس"
         },
-        "revelation": { "place": "makkah", "order": 51 }
+        "revelation": {
+          "place": "makkah",
+          "order": 51
+        }
       },
       "11": {
         "id": 11,
@@ -2451,7 +2503,10 @@
           "english": "Hud",
           "arabic": "هود"
         },
-        "revelation": { "place": "makkah", "order": 52 }
+        "revelation": {
+          "place": "makkah",
+          "order": 52
+        }
       },
       "12": {
         "id": 12,
@@ -2464,7 +2519,10 @@
           "english": "Joseph",
           "arabic": "يوسف"
         },
-        "revelation": { "place": "makkah", "order": 53 }
+        "revelation": {
+          "place": "makkah",
+          "order": 53
+        }
       },
       "13": {
         "id": 13,
@@ -2477,7 +2535,10 @@
           "english": "The Thunder",
           "arabic": "الرعد"
         },
-        "revelation": { "place": "madinah", "order": 96 }
+        "revelation": {
+          "place": "madinah",
+          "order": 96
+        }
       },
       "14": {
         "id": 14,
@@ -2490,7 +2551,10 @@
           "english": "Abrahim",
           "arabic": "ابراهيم"
         },
-        "revelation": { "place": "makkah", "order": 72 }
+        "revelation": {
+          "place": "makkah",
+          "order": 72
+        }
       },
       "15": {
         "id": 15,
@@ -2503,7 +2567,10 @@
           "english": "The Rocky Tract",
           "arabic": "الحجر"
         },
-        "revelation": { "place": "makkah", "order": 54 }
+        "revelation": {
+          "place": "makkah",
+          "order": 54
+        }
       },
       "16": {
         "id": 16,
@@ -2516,7 +2583,10 @@
           "english": "The Bee",
           "arabic": "النحل"
         },
-        "revelation": { "place": "makkah", "order": 70 }
+        "revelation": {
+          "place": "makkah",
+          "order": 70
+        }
       },
       "17": {
         "id": 17,
@@ -2529,7 +2599,10 @@
           "english": "The Night Journey",
           "arabic": "الإسراء"
         },
-        "revelation": { "place": "makkah", "order": 50 }
+        "revelation": {
+          "place": "makkah",
+          "order": 50
+        }
       },
       "18": {
         "id": 18,
@@ -2542,7 +2615,10 @@
           "english": "The Cave",
           "arabic": "الكهف"
         },
-        "revelation": { "place": "makkah", "order": 69 }
+        "revelation": {
+          "place": "makkah",
+          "order": 69
+        }
       },
       "19": {
         "id": 19,
@@ -2555,7 +2631,10 @@
           "english": "Mary",
           "arabic": "مريم"
         },
-        "revelation": { "place": "makkah", "order": 44 }
+        "revelation": {
+          "place": "makkah",
+          "order": 44
+        }
       },
       "20": {
         "id": 20,
@@ -2568,7 +2647,10 @@
           "english": "Ta-Ha",
           "arabic": "طه"
         },
-        "revelation": { "place": "makkah", "order": 45 }
+        "revelation": {
+          "place": "makkah",
+          "order": 45
+        }
       },
       "21": {
         "id": 21,
@@ -2581,7 +2663,10 @@
           "english": "The Prophets",
           "arabic": "الأنبياء"
         },
-        "revelation": { "place": "makkah", "order": 73 }
+        "revelation": {
+          "place": "makkah",
+          "order": 73
+        }
       },
       "22": {
         "id": 22,
@@ -2594,7 +2679,10 @@
           "english": "The Pilgrimage",
           "arabic": "الحج"
         },
-        "revelation": { "place": "madinah", "order": 103 }
+        "revelation": {
+          "place": "madinah",
+          "order": 103
+        }
       },
       "23": {
         "id": 23,
@@ -2607,7 +2695,10 @@
           "english": "The Believers",
           "arabic": "المؤمنون"
         },
-        "revelation": { "place": "makkah", "order": 74 }
+        "revelation": {
+          "place": "makkah",
+          "order": 74
+        }
       },
       "24": {
         "id": 24,
@@ -2620,7 +2711,10 @@
           "english": "The Light",
           "arabic": "النور"
         },
-        "revelation": { "place": "madinah", "order": 102 }
+        "revelation": {
+          "place": "madinah",
+          "order": 102
+        }
       },
       "25": {
         "id": 25,
@@ -2633,7 +2727,10 @@
           "english": "The Criterian",
           "arabic": "الفرقان"
         },
-        "revelation": { "place": "makkah", "order": 42 }
+        "revelation": {
+          "place": "makkah",
+          "order": 42
+        }
       },
       "26": {
         "id": 26,
@@ -2646,7 +2743,10 @@
           "english": "The Poets",
           "arabic": "الشعراء"
         },
-        "revelation": { "place": "makkah", "order": 47 }
+        "revelation": {
+          "place": "makkah",
+          "order": 47
+        }
       },
       "27": {
         "id": 27,
@@ -2659,7 +2759,10 @@
           "english": "The Ant",
           "arabic": "النمل"
         },
-        "revelation": { "place": "makkah", "order": 48 }
+        "revelation": {
+          "place": "makkah",
+          "order": 48
+        }
       },
       "28": {
         "id": 28,
@@ -2672,7 +2775,10 @@
           "english": "The Stories",
           "arabic": "القصص"
         },
-        "revelation": { "place": "makkah", "order": 49 }
+        "revelation": {
+          "place": "makkah",
+          "order": 49
+        }
       },
       "29": {
         "id": 29,
@@ -2685,7 +2791,10 @@
           "english": "The Spider",
           "arabic": "العنكبوت"
         },
-        "revelation": { "place": "makkah", "order": 85 }
+        "revelation": {
+          "place": "makkah",
+          "order": 85
+        }
       },
       "30": {
         "id": 30,
@@ -2698,7 +2807,10 @@
           "english": "The Romans",
           "arabic": "الروم"
         },
-        "revelation": { "place": "makkah", "order": 84 }
+        "revelation": {
+          "place": "makkah",
+          "order": 84
+        }
       },
       "31": {
         "id": 31,
@@ -2711,7 +2823,10 @@
           "english": "Luqman",
           "arabic": "لقمان"
         },
-        "revelation": { "place": "makkah", "order": 57 }
+        "revelation": {
+          "place": "makkah",
+          "order": 57
+        }
       },
       "32": {
         "id": 32,
@@ -2724,7 +2839,10 @@
           "english": "The Prostration",
           "arabic": "السجدة"
         },
-        "revelation": { "place": "makkah", "order": 75 }
+        "revelation": {
+          "place": "makkah",
+          "order": 75
+        }
       },
       "33": {
         "id": 33,
@@ -2737,7 +2855,10 @@
           "english": "The Combined Forces",
           "arabic": "الأحزاب"
         },
-        "revelation": { "place": "madinah", "order": 90 }
+        "revelation": {
+          "place": "madinah",
+          "order": 90
+        }
       },
       "34": {
         "id": 34,
@@ -2750,7 +2871,10 @@
           "english": "Sheba",
           "arabic": "سبإ"
         },
-        "revelation": { "place": "makkah", "order": 58 }
+        "revelation": {
+          "place": "makkah",
+          "order": 58
+        }
       },
       "35": {
         "id": 35,
@@ -2763,7 +2887,10 @@
           "english": "Originator",
           "arabic": "فاطر"
         },
-        "revelation": { "place": "makkah", "order": 43 }
+        "revelation": {
+          "place": "makkah",
+          "order": 43
+        }
       },
       "36": {
         "id": 36,
@@ -2776,7 +2903,10 @@
           "english": "Ya Sin",
           "arabic": "يس"
         },
-        "revelation": { "place": "makkah", "order": 41 }
+        "revelation": {
+          "place": "makkah",
+          "order": 41
+        }
       },
       "37": {
         "id": 37,
@@ -2789,7 +2919,10 @@
           "english": "Those who set the Ranks",
           "arabic": "الصافات"
         },
-        "revelation": { "place": "makkah", "order": 56 }
+        "revelation": {
+          "place": "makkah",
+          "order": 56
+        }
       },
       "38": {
         "id": 38,
@@ -2802,7 +2935,10 @@
           "english": "The Letter \"Saad\"",
           "arabic": "ص"
         },
-        "revelation": { "place": "makkah", "order": 38 }
+        "revelation": {
+          "place": "makkah",
+          "order": 38
+        }
       },
       "39": {
         "id": 39,
@@ -2815,7 +2951,10 @@
           "english": "The Troops",
           "arabic": "الزمر"
         },
-        "revelation": { "place": "makkah", "order": 59 }
+        "revelation": {
+          "place": "makkah",
+          "order": 59
+        }
       },
       "40": {
         "id": 40,
@@ -2828,7 +2967,10 @@
           "english": "The Forgiver",
           "arabic": "غافر"
         },
-        "revelation": { "place": "makkah", "order": 60 }
+        "revelation": {
+          "place": "makkah",
+          "order": 60
+        }
       },
       "41": {
         "id": 41,
@@ -2841,7 +2983,10 @@
           "english": "Explained in Detail",
           "arabic": "فصلت"
         },
-        "revelation": { "place": "makkah", "order": 61 }
+        "revelation": {
+          "place": "makkah",
+          "order": 61
+        }
       },
       "42": {
         "id": 42,
@@ -2854,7 +2999,10 @@
           "english": "The Consultation",
           "arabic": "الشورى"
         },
-        "revelation": { "place": "makkah", "order": 62 }
+        "revelation": {
+          "place": "makkah",
+          "order": 62
+        }
       },
       "43": {
         "id": 43,
@@ -2867,7 +3015,10 @@
           "english": "The Ornaments of Gold",
           "arabic": "الزخرف"
         },
-        "revelation": { "place": "makkah", "order": 63 }
+        "revelation": {
+          "place": "makkah",
+          "order": 63
+        }
       },
       "44": {
         "id": 44,
@@ -2880,7 +3031,10 @@
           "english": "The Smoke",
           "arabic": "الدخان"
         },
-        "revelation": { "place": "makkah", "order": 64 }
+        "revelation": {
+          "place": "makkah",
+          "order": 64
+        }
       },
       "45": {
         "id": 45,
@@ -2893,7 +3047,10 @@
           "english": "The Crouching",
           "arabic": "الجاثية"
         },
-        "revelation": { "place": "makkah", "order": 65 }
+        "revelation": {
+          "place": "makkah",
+          "order": 65
+        }
       },
       "46": {
         "id": 46,
@@ -2906,7 +3063,10 @@
           "english": "The Wind-Curved Sandhills",
           "arabic": "الأحقاف"
         },
-        "revelation": { "place": "makkah", "order": 66 }
+        "revelation": {
+          "place": "makkah",
+          "order": 66
+        }
       },
       "47": {
         "id": 47,
@@ -2919,7 +3079,10 @@
           "english": "Muhammad",
           "arabic": "محمد"
         },
-        "revelation": { "place": "madinah", "order": 95 }
+        "revelation": {
+          "place": "madinah",
+          "order": 95
+        }
       },
       "48": {
         "id": 48,
@@ -2932,7 +3095,10 @@
           "english": "The Victory",
           "arabic": "الفتح"
         },
-        "revelation": { "place": "madinah", "order": 111 }
+        "revelation": {
+          "place": "madinah",
+          "order": 111
+        }
       },
       "49": {
         "id": 49,
@@ -2945,7 +3111,10 @@
           "english": "The Rooms",
           "arabic": "الحجرات"
         },
-        "revelation": { "place": "madinah", "order": 106 }
+        "revelation": {
+          "place": "madinah",
+          "order": 106
+        }
       },
       "50": {
         "id": 50,
@@ -2958,7 +3127,10 @@
           "english": "The Letter \"Qaf\"",
           "arabic": "ق"
         },
-        "revelation": { "place": "makkah", "order": 34 }
+        "revelation": {
+          "place": "makkah",
+          "order": 34
+        }
       },
       "51": {
         "id": 51,
@@ -2971,7 +3143,10 @@
           "english": "The Winnowing Winds",
           "arabic": "الذاريات"
         },
-        "revelation": { "place": "makkah", "order": 67 }
+        "revelation": {
+          "place": "makkah",
+          "order": 67
+        }
       },
       "52": {
         "id": 52,
@@ -2984,7 +3159,10 @@
           "english": "The Mount",
           "arabic": "الطور"
         },
-        "revelation": { "place": "makkah", "order": 76 }
+        "revelation": {
+          "place": "makkah",
+          "order": 76
+        }
       },
       "53": {
         "id": 53,
@@ -2997,7 +3175,10 @@
           "english": "The Star",
           "arabic": "النجم"
         },
-        "revelation": { "place": "makkah", "order": 23 }
+        "revelation": {
+          "place": "makkah",
+          "order": 23
+        }
       },
       "54": {
         "id": 54,
@@ -3010,7 +3191,10 @@
           "english": "The Moon",
           "arabic": "القمر"
         },
-        "revelation": { "place": "makkah", "order": 37 }
+        "revelation": {
+          "place": "makkah",
+          "order": 37
+        }
       },
       "55": {
         "id": 55,
@@ -3023,7 +3207,10 @@
           "english": "The Beneficent",
           "arabic": "الرحمن"
         },
-        "revelation": { "place": "madinah", "order": 97 }
+        "revelation": {
+          "place": "madinah",
+          "order": 97
+        }
       },
       "56": {
         "id": 56,
@@ -3036,7 +3223,10 @@
           "english": "The Inevitable",
           "arabic": "الواقعة"
         },
-        "revelation": { "place": "makkah", "order": 46 }
+        "revelation": {
+          "place": "makkah",
+          "order": 46
+        }
       },
       "57": {
         "id": 57,
@@ -3049,7 +3239,10 @@
           "english": "The Iron",
           "arabic": "الحديد"
         },
-        "revelation": { "place": "madinah", "order": 94 }
+        "revelation": {
+          "place": "madinah",
+          "order": 94
+        }
       },
       "58": {
         "id": 58,
@@ -3062,7 +3255,10 @@
           "english": "The Pleading Woman",
           "arabic": "المجادلة"
         },
-        "revelation": { "place": "madinah", "order": 105 }
+        "revelation": {
+          "place": "madinah",
+          "order": 105
+        }
       },
       "59": {
         "id": 59,
@@ -3075,7 +3271,10 @@
           "english": "The Exile",
           "arabic": "الحشر"
         },
-        "revelation": { "place": "madinah", "order": 101 }
+        "revelation": {
+          "place": "madinah",
+          "order": 101
+        }
       },
       "60": {
         "id": 60,
@@ -3088,7 +3287,10 @@
           "english": "She that is to be examined",
           "arabic": "الممتحنة"
         },
-        "revelation": { "place": "madinah", "order": 91 }
+        "revelation": {
+          "place": "madinah",
+          "order": 91
+        }
       },
       "61": {
         "id": 61,
@@ -3101,7 +3303,10 @@
           "english": "The Ranks",
           "arabic": "الصف"
         },
-        "revelation": { "place": "madinah", "order": 109 }
+        "revelation": {
+          "place": "madinah",
+          "order": 109
+        }
       },
       "62": {
         "id": 62,
@@ -3114,7 +3319,10 @@
           "english": "The Congregation, Friday",
           "arabic": "الجمعة"
         },
-        "revelation": { "place": "madinah", "order": 110 }
+        "revelation": {
+          "place": "madinah",
+          "order": 110
+        }
       },
       "63": {
         "id": 63,
@@ -3127,7 +3335,10 @@
           "english": "The Hypocrites",
           "arabic": "المنافقون"
         },
-        "revelation": { "place": "madinah", "order": 104 }
+        "revelation": {
+          "place": "madinah",
+          "order": 104
+        }
       },
       "64": {
         "id": 64,
@@ -3140,7 +3351,10 @@
           "english": "The Mutual Disillusion",
           "arabic": "التغابن"
         },
-        "revelation": { "place": "madinah", "order": 108 }
+        "revelation": {
+          "place": "madinah",
+          "order": 108
+        }
       },
       "65": {
         "id": 65,
@@ -3153,7 +3367,10 @@
           "english": "The Divorce",
           "arabic": "الطلاق"
         },
-        "revelation": { "place": "madinah", "order": 99 }
+        "revelation": {
+          "place": "madinah",
+          "order": 99
+        }
       },
       "66": {
         "id": 66,
@@ -3166,7 +3383,10 @@
           "english": "The Prohibtiion",
           "arabic": "التحريم"
         },
-        "revelation": { "place": "madinah", "order": 107 }
+        "revelation": {
+          "place": "madinah",
+          "order": 107
+        }
       },
       "67": {
         "id": 67,
@@ -3179,7 +3399,10 @@
           "english": "The Sovereignty",
           "arabic": "الملك"
         },
-        "revelation": { "place": "makkah", "order": 77 }
+        "revelation": {
+          "place": "makkah",
+          "order": 77
+        }
       },
       "68": {
         "id": 68,
@@ -3192,7 +3415,10 @@
           "english": "The Pen",
           "arabic": "القلم"
         },
-        "revelation": { "place": "makkah", "order": 2 }
+        "revelation": {
+          "place": "makkah",
+          "order": 2
+        }
       },
       "69": {
         "id": 69,
@@ -3205,7 +3431,10 @@
           "english": "The Reality",
           "arabic": "الحاقة"
         },
-        "revelation": { "place": "makkah", "order": 78 }
+        "revelation": {
+          "place": "makkah",
+          "order": 78
+        }
       },
       "70": {
         "id": 70,
@@ -3218,7 +3447,10 @@
           "english": "The Ascending Stairways",
           "arabic": "المعارج"
         },
-        "revelation": { "place": "makkah", "order": 79 }
+        "revelation": {
+          "place": "makkah",
+          "order": 79
+        }
       },
       "71": {
         "id": 71,
@@ -3231,7 +3463,10 @@
           "english": "Noah",
           "arabic": "نوح"
         },
-        "revelation": { "place": "makkah", "order": 71 }
+        "revelation": {
+          "place": "makkah",
+          "order": 71
+        }
       },
       "72": {
         "id": 72,
@@ -3244,7 +3479,10 @@
           "english": "The Jinn",
           "arabic": "الجن"
         },
-        "revelation": { "place": "makkah", "order": 40 }
+        "revelation": {
+          "place": "makkah",
+          "order": 40
+        }
       },
       "73": {
         "id": 73,
@@ -3257,7 +3495,10 @@
           "english": "The Enshrouded One",
           "arabic": "المزمل"
         },
-        "revelation": { "place": "makkah", "order": 3 }
+        "revelation": {
+          "place": "makkah",
+          "order": 3
+        }
       },
       "74": {
         "id": 74,
@@ -3270,7 +3511,10 @@
           "english": "The Cloaked One",
           "arabic": "المدثر"
         },
-        "revelation": { "place": "makkah", "order": 4 }
+        "revelation": {
+          "place": "makkah",
+          "order": 4
+        }
       },
       "75": {
         "id": 75,
@@ -3283,7 +3527,10 @@
           "english": "The Resurrection",
           "arabic": "القيامة"
         },
-        "revelation": { "place": "makkah", "order": 31 }
+        "revelation": {
+          "place": "makkah",
+          "order": 31
+        }
       },
       "76": {
         "id": 76,
@@ -3296,7 +3543,10 @@
           "english": "The Man",
           "arabic": "الانسان"
         },
-        "revelation": { "place": "madinah", "order": 98 }
+        "revelation": {
+          "place": "madinah",
+          "order": 98
+        }
       },
       "77": {
         "id": 77,
@@ -3309,7 +3559,10 @@
           "english": "The Emissaries",
           "arabic": "المرسلات"
         },
-        "revelation": { "place": "makkah", "order": 33 }
+        "revelation": {
+          "place": "makkah",
+          "order": 33
+        }
       },
       "78": {
         "id": 78,
@@ -3322,7 +3575,10 @@
           "english": "The Tidings",
           "arabic": "النبإ"
         },
-        "revelation": { "place": "makkah", "order": 80 }
+        "revelation": {
+          "place": "makkah",
+          "order": 80
+        }
       },
       "79": {
         "id": 79,
@@ -3335,7 +3591,10 @@
           "english": "Those who drag forth",
           "arabic": "النازعات"
         },
-        "revelation": { "place": "makkah", "order": 81 }
+        "revelation": {
+          "place": "makkah",
+          "order": 81
+        }
       },
       "80": {
         "id": 80,
@@ -3348,7 +3607,10 @@
           "english": "He Frowned",
           "arabic": "عبس"
         },
-        "revelation": { "place": "makkah", "order": 24 }
+        "revelation": {
+          "place": "makkah",
+          "order": 24
+        }
       },
       "81": {
         "id": 81,
@@ -3361,7 +3623,10 @@
           "english": "The Overthrowing",
           "arabic": "التكوير"
         },
-        "revelation": { "place": "makkah", "order": 7 }
+        "revelation": {
+          "place": "makkah",
+          "order": 7
+        }
       },
       "82": {
         "id": 82,
@@ -3374,7 +3639,10 @@
           "english": "The Cleaving",
           "arabic": "الإنفطار"
         },
-        "revelation": { "place": "makkah", "order": 82 }
+        "revelation": {
+          "place": "makkah",
+          "order": 82
+        }
       },
       "83": {
         "id": 83,
@@ -3387,7 +3655,10 @@
           "english": "The Defrauding",
           "arabic": "المطففين"
         },
-        "revelation": { "place": "makkah", "order": 86 }
+        "revelation": {
+          "place": "makkah",
+          "order": 86
+        }
       },
       "84": {
         "id": 84,
@@ -3400,7 +3671,10 @@
           "english": "The Sundering",
           "arabic": "الإنشقاق"
         },
-        "revelation": { "place": "makkah", "order": 83 }
+        "revelation": {
+          "place": "makkah",
+          "order": 83
+        }
       },
       "85": {
         "id": 85,
@@ -3413,7 +3687,10 @@
           "english": "The Mansions of the Stars",
           "arabic": "البروج"
         },
-        "revelation": { "place": "makkah", "order": 27 }
+        "revelation": {
+          "place": "makkah",
+          "order": 27
+        }
       },
       "86": {
         "id": 86,
@@ -3426,7 +3703,10 @@
           "english": "The Nightcommer",
           "arabic": "الطارق"
         },
-        "revelation": { "place": "makkah", "order": 36 }
+        "revelation": {
+          "place": "makkah",
+          "order": 36
+        }
       },
       "87": {
         "id": 87,
@@ -3439,7 +3719,10 @@
           "english": "The Most High",
           "arabic": "الأعلى"
         },
-        "revelation": { "place": "makkah", "order": 8 }
+        "revelation": {
+          "place": "makkah",
+          "order": 8
+        }
       },
       "88": {
         "id": 88,
@@ -3452,7 +3735,10 @@
           "english": "The Overwhelming",
           "arabic": "الغاشية"
         },
-        "revelation": { "place": "makkah", "order": 68 }
+        "revelation": {
+          "place": "makkah",
+          "order": 68
+        }
       },
       "89": {
         "id": 89,
@@ -3465,7 +3751,10 @@
           "english": "The Dawn",
           "arabic": "الفجر"
         },
-        "revelation": { "place": "makkah", "order": 10 }
+        "revelation": {
+          "place": "makkah",
+          "order": 10
+        }
       },
       "90": {
         "id": 90,
@@ -3478,7 +3767,10 @@
           "english": "The City",
           "arabic": "البلد"
         },
-        "revelation": { "place": "makkah", "order": 35 }
+        "revelation": {
+          "place": "makkah",
+          "order": 35
+        }
       },
       "91": {
         "id": 91,
@@ -3491,7 +3783,10 @@
           "english": "The Sun",
           "arabic": "الشمس"
         },
-        "revelation": { "place": "makkah", "order": 26 }
+        "revelation": {
+          "place": "makkah",
+          "order": 26
+        }
       },
       "92": {
         "id": 92,
@@ -3504,7 +3799,10 @@
           "english": "The Night",
           "arabic": "الليل"
         },
-        "revelation": { "place": "makkah", "order": 9 }
+        "revelation": {
+          "place": "makkah",
+          "order": 9
+        }
       },
       "93": {
         "id": 93,
@@ -3517,7 +3815,10 @@
           "english": "The Morning Hours",
           "arabic": "الضحى"
         },
-        "revelation": { "place": "makkah", "order": 11 }
+        "revelation": {
+          "place": "makkah",
+          "order": 11
+        }
       },
       "94": {
         "id": 94,
@@ -3530,7 +3831,10 @@
           "english": "The Relief",
           "arabic": "الشرح"
         },
-        "revelation": { "place": "makkah", "order": 12 }
+        "revelation": {
+          "place": "makkah",
+          "order": 12
+        }
       },
       "95": {
         "id": 95,
@@ -3543,7 +3847,10 @@
           "english": "The Fig",
           "arabic": "التين"
         },
-        "revelation": { "place": "makkah", "order": 28 }
+        "revelation": {
+          "place": "makkah",
+          "order": 28
+        }
       },
       "96": {
         "id": 96,
@@ -3556,7 +3863,10 @@
           "english": "The Clot",
           "arabic": "العلق"
         },
-        "revelation": { "place": "makkah", "order": 1 }
+        "revelation": {
+          "place": "makkah",
+          "order": 1
+        }
       },
       "97": {
         "id": 97,
@@ -3569,7 +3879,10 @@
           "english": "The Power",
           "arabic": "القدر"
         },
-        "revelation": { "place": "makkah", "order": 25 }
+        "revelation": {
+          "place": "makkah",
+          "order": 25
+        }
       },
       "98": {
         "id": 98,
@@ -3582,7 +3895,10 @@
           "english": "The Clear Proof",
           "arabic": "البينة"
         },
-        "revelation": { "place": "madinah", "order": 100 }
+        "revelation": {
+          "place": "madinah",
+          "order": 100
+        }
       },
       "99": {
         "id": 99,
@@ -3595,7 +3911,10 @@
           "english": "The Earthquake",
           "arabic": "الزلزلة"
         },
-        "revelation": { "place": "madinah", "order": 93 }
+        "revelation": {
+          "place": "madinah",
+          "order": 93
+        }
       },
       "100": {
         "id": 100,
@@ -3608,7 +3927,10 @@
           "english": "The Courser",
           "arabic": "العاديات"
         },
-        "revelation": { "place": "makkah", "order": 14 }
+        "revelation": {
+          "place": "makkah",
+          "order": 14
+        }
       },
       "101": {
         "id": 101,
@@ -3621,7 +3943,10 @@
           "english": "The Calamity",
           "arabic": "القارعة"
         },
-        "revelation": { "place": "makkah", "order": 30 }
+        "revelation": {
+          "place": "makkah",
+          "order": 30
+        }
       },
       "102": {
         "id": 102,
@@ -3634,7 +3959,10 @@
           "english": "The Rivalry in world increase",
           "arabic": "التكاثر"
         },
-        "revelation": { "place": "makkah", "order": 16 }
+        "revelation": {
+          "place": "makkah",
+          "order": 16
+        }
       },
       "103": {
         "id": 103,
@@ -3647,7 +3975,10 @@
           "english": "The Declining Day",
           "arabic": "العصر"
         },
-        "revelation": { "place": "makkah", "order": 13 }
+        "revelation": {
+          "place": "makkah",
+          "order": 13
+        }
       },
       "104": {
         "id": 104,
@@ -3660,7 +3991,10 @@
           "english": "The Traducer",
           "arabic": "الهمزة"
         },
-        "revelation": { "place": "makkah", "order": 32 }
+        "revelation": {
+          "place": "makkah",
+          "order": 32
+        }
       },
       "105": {
         "id": 105,
@@ -3673,7 +4007,10 @@
           "english": "The Elephant",
           "arabic": "الفيل"
         },
-        "revelation": { "place": "makkah", "order": 19 }
+        "revelation": {
+          "place": "makkah",
+          "order": 19
+        }
       },
       "106": {
         "id": 106,
@@ -3686,7 +4023,10 @@
           "english": "Quraysh",
           "arabic": "قريش"
         },
-        "revelation": { "place": "makkah", "order": 29 }
+        "revelation": {
+          "place": "makkah",
+          "order": 29
+        }
       },
       "107": {
         "id": 107,
@@ -3699,7 +4039,10 @@
           "english": "The Small Kindesses",
           "arabic": "الماعون"
         },
-        "revelation": { "place": "makkah", "order": 17 }
+        "revelation": {
+          "place": "makkah",
+          "order": 17
+        }
       },
       "108": {
         "id": 108,
@@ -3712,7 +4055,10 @@
           "english": "The Abundance",
           "arabic": "الكوثر"
         },
-        "revelation": { "place": "makkah", "order": 15 }
+        "revelation": {
+          "place": "makkah",
+          "order": 15
+        }
       },
       "109": {
         "id": 109,
@@ -3725,7 +4071,10 @@
           "english": "The Disbelievers",
           "arabic": "الكافرون"
         },
-        "revelation": { "place": "makkah", "order": 18 }
+        "revelation": {
+          "place": "makkah",
+          "order": 18
+        }
       },
       "110": {
         "id": 110,
@@ -3738,7 +4087,10 @@
           "english": "The Divine Support",
           "arabic": "النصر"
         },
-        "revelation": { "place": "madinah", "order": 114 }
+        "revelation": {
+          "place": "madinah",
+          "order": 114
+        }
       },
       "111": {
         "id": 111,
@@ -3751,7 +4103,10 @@
           "english": "The Palm Fiber",
           "arabic": "المسد"
         },
-        "revelation": { "place": "makkah", "order": 6 }
+        "revelation": {
+          "place": "makkah",
+          "order": 6
+        }
       },
       "112": {
         "id": 112,
@@ -3764,7 +4119,10 @@
           "english": "The Sincerity",
           "arabic": "الإخلاص"
         },
-        "revelation": { "place": "makkah", "order": 22 }
+        "revelation": {
+          "place": "makkah",
+          "order": 22
+        }
       },
       "113": {
         "id": 113,
@@ -3777,7 +4135,10 @@
           "english": "The Daybreak",
           "arabic": "الفلق"
         },
-        "revelation": { "place": "makkah", "order": 20 }
+        "revelation": {
+          "place": "makkah",
+          "order": 20
+        }
       },
       "114": {
         "id": 114,
@@ -3790,11 +4151,22 @@
           "english": "The Mankind",
           "arabic": "الناس"
         },
-        "revelation": { "place": "makkah", "order": 21 }
+        "revelation": {
+          "place": "makkah",
+          "order": 21
+        }
       }
     },
     "loading": true
   },
-  "download": { "errored": false, "loaded": false, "entities": {} },
-  "related": { "errored": false, "loaded": false, "entities": {} }
+  "download": {
+    "errored": false,
+    "loaded": false,
+    "entities": {}
+  },
+  "related": {
+    "errored": false,
+    "loaded": false,
+    "entities": {}
+  }
 }
