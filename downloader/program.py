@@ -22,8 +22,9 @@ def main():
     response = requests.get(f"{QURANIC_AUDIO_LINK}/{recieter_links[0]}")
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, "html.parser")
-        name = soup.find_all("h1")
-        print(name)
+        scripts = soup.find("script")
+        if scripts:
+            print(scripts.text.split("window.__data=")[1][:-1])
 
 
 if __name__ == "__main__":
