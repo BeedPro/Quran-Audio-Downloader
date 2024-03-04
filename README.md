@@ -3,7 +3,12 @@
 Quranic Audio Downloader is a Python script designed to download audio files from the Quranic Audio website. It provides various functionalities for downloading recitations, taraweeh recitations from Haramain, non-Hafs recitations, and recitations with translation.
 
 ## Installation
+### From installation script
+```bash
+bash install.sh
+```
 
+### From git
 1. Clone the repository:
 
    ```bash
