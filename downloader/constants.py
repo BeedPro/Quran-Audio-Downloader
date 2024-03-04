@@ -8,9 +8,38 @@ from exceptions import FailedToFetchURLException
 class Constants:
     def __init__(self):
         self.QURANIC_AUDIO_LINK = "https://www.quranicaudio.com"
-        self.QURANIC_AUDIO_DOWNLOAD_LINK = "https://download.quranicaudio.com/quran/"
+        self.QURANIC_AUDIO_DOWNLOAD_LINK = "https://download.quranicaudio.com/quran"
         self.QURANIC_DATA_FILE_PATH = "quranic_audio_data.json"
         self.QURANIC_AUDIO_DATA = self.__get_data_from_file()
+        self.QARI_DATA = self.__get_qari_data()
+        self.SURAH_DATA = self.__get_surah_data()
+        self.SECTIONS_DATA = {
+            1: "Recitations",
+            2: "Recitations from Haramain Taraweeh",
+            3: "Non-Hafs Recitations",
+            4: "Recitations with Translations",
+        }
+
+    def __get_surah_data(self):
+        surah_data = {}
+        surah_data_entries = self.QURANIC_AUDIO_DATA["surahs"]["entities"].items()
+        for key, entry in surah_data_entries:
+            name = entry["name"]
+            simple = name["simple"]
+            english = name["english"]
+            surah_data[key] = {"simple": simple, "english": english}
+        return surah_data
+
+    def __get_qari_data(self):
+        qari_data = {}
+        qari_data_entries = self.QURANIC_AUDIO_DATA["qaris"]["entities"].items()
+        for _, entry in qari_data_entries:
+            name = entry["name"]
+            section_id = entry["sectionId"]
+            relativePath = entry["relativePath"]
+            if section_id == 1:
+                qari_data[name] = relativePath
+        return qari_data
 
     def __get_links(self):
         response = requests.get(self.QURANIC_AUDIO_LINK)
