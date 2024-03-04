@@ -47,6 +47,11 @@ Follow the prompts to select the desired section and proceed with the download.
 - [math](https://docs.python.org/3/library/math.html): For mathematical operations.
 - [os](https://docs.python.org/3/library/os.html): For interacting with the operating system.
 
+### Testing
+To run the tests, run the following command:
+```bash
+./run_tests
+```
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
