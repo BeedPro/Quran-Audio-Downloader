@@ -8,7 +8,8 @@ from exceptions import FailedToFetchURLException
 class Constants:
     def __init__(self):
         self.QURANIC_AUDIO_LINK = "https://www.quranicaudio.com"
-        self.DOWNLOAD_PATH = "."
+        # self.DOWNLOAD_PATH = "."
+        self.DOWNLOAD_PATH = "/mnt/SSD_Storage/Audio/Quran"
         self.QURANIC_AUDIO_DOWNLOAD_LINK = "https://download.quranicaudio.com/quran"
         self.QURANIC_DATA_FILE_PATH = "quranic_audio_data.json"
         self.QURANIC_AUDIO_DATA = self.__get_data_from_file()
@@ -28,7 +29,7 @@ class Constants:
             name = entry["name"]
             simple = name["simple"]
             english = name["english"]
-            surah_data[key] = {"simple": simple, "english": english}
+            surah_data[int(key)] = {"simple": simple, "english": english}
         return surah_data
 
     def __get_qari_data(self):

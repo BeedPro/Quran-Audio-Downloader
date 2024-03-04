@@ -90,7 +90,10 @@ def download_surahs(surah_nums, download_url, download_path):
         if not os.path.isdir(download_path):
             os.mkdir(download_path)
         url = f"{download_url}{surah:03d}.mp3"
-        file_path = f"{download_path}/{surah:03d}.mp3"
+        arabic_name = constants.SURAH_DATA[surah]["simple"]
+        english_name = constants.SURAH_DATA[surah]["english"].replace('"', "")
+        surah_name = f"{surah:03d} - {arabic_name} ({english_name})"
+        file_path = f"{download_path}/{surah_name}.mp3"
         print(f"Downloading: {url}")
         # download_file(url, file_path)
         download_file_with_progress(url, file_path)
