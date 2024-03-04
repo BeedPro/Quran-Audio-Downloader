@@ -1,4 +1,3 @@
-from os.path import isdir
 from typing import List
 import requests
 from constants import Constants
