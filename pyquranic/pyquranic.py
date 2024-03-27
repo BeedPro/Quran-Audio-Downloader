@@ -1,6 +1,6 @@
 from typing import List
 import requests
-from constants import Constants
+from pyquranic.constants import Constants
 from tqdm import tqdm
 import math
 import os

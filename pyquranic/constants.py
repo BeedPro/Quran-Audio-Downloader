@@ -2,7 +2,7 @@ import requests
 import os
 import json
 from bs4 import BeautifulSoup
-from exceptions import FailedToFetchURLException
+from pyquranic.exceptions import FailedToFetchURLException
 
 
 class Constants:
