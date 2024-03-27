@@ -1,0 +1,2 @@
+#!/bin/bash
+~/.local/src/BeedPro/Quran-Audio-Downloader/.venv/bin/python3 pyquranic.py "$@"
