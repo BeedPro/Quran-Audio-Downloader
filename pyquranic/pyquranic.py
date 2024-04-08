@@ -1,5 +1,7 @@
 from typing import List
 import requests
+import argparse
+import sys
 from pyquranic.constants import Constants
 from tqdm import tqdm
 import math
@@ -133,7 +135,7 @@ def handle_recitations():
     download_surahs(surah_nums, url, qari_path)
 
 
-def main():
+def wizard():
     clear_terminal()
     print("Welcome to the Quranic Audio Downloader!")
     print("Please pick what section of the application you want to download.")
@@ -142,7 +144,9 @@ def main():
     print("\t2. Recitations from Haramain Taraweeh")
     print("\t3. Non-Hafs Recitations")
     print("\t4. Recitations with Translation")
+
     section = int(input("\nEnter the number of the section you want to download: "))
+
     match section:
         case 1:
             handle_recitations()
@@ -150,5 +154,36 @@ def main():
             print("Invalid section number. Please try again.")
 
 
-if __name__ == "__main__":
-    main()
+def cli():
+    parser = argparse.ArgumentParser(
+        prog="PyQuranic Downloader",
+        description="A simple downloader for the Quranic Audio website, allows downloading of recitations from qaris on the website",
+    )
+    parser.add_argument(
+        "-q",
+        "--qari",
+        action="store",
+        help="Name of the Qari",
+    )
+    parser.add_argument(
+        "-s",
+        "--surah",
+        action="store",
+        type=int,
+        help="The surah number",
+    )
+    parser.add_argument(
+        "-a",
+        "--all",
+        action="store_true",
+        help="Download all the surahs",
+    )
+    args = parser.parse_args()
+    print(vars(args))
+
+
+def main():
+    if len(sys.argv) == 1:
+        wizard()
+    else:
+        cli()
